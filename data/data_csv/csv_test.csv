@@ -1,0 +1,845 @@
+ADLT#8|ADLT#8:0|b'Love Al Di La'|RESTAURANT#GENERAL|positive
+ADLT#8|ADLT#8:1|b'I recommend this place to everyone.'|RESTAURANT#GENERAL|positive
+ADLT#8|ADLT#8:2|b'Great food.'|FOOD#QUALITY|positive
+ADLT#2|ADLT#2:0|b'One of my favorite places in Brooklyn. '|RESTAURANT#GENERAL|positive
+ADLT#2|ADLT#2:1|b'The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.'|FOOD#QUALITY|positive
+ADLT#2|ADLT#2:1|b'The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.'|FOOD#QUALITY|positive
+ADLT#2|ADLT#2:1|b'The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.'|FOOD#QUALITY|positive
+ADLT#2|ADLT#2:1|b'The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.'|FOOD#QUALITY|positive
+BFC#4|BFC#4:0|b'Overpriced and not tasty '|FOOD#PRICES|negative
+BFC#4|BFC#4:0|b'Overpriced and not tasty '|FOOD#QUALITY|negative
+BFC#4|BFC#4:1|b'The food here was mediocre at best. '|FOOD#QUALITY|negative
+BFC#4|BFC#4:2|b'It was totally overpriced- fish and chips was about $15.... '|FOOD#PRICES|negative
+BFC#4|BFC#4:2|b'It was totally overpriced- fish and chips was about $15.... '|FOOD#PRICES|negative
+BHD#9|BHD#9:0|b'Tasty Dog!'|FOOD#QUALITY|positive
+BHD#9|BHD#9:1|b'An awesome organic dog, and a conscious eco friendly establishment.'|FOOD#QUALITY|positive
+BHD#9|BHD#9:1|b'An awesome organic dog, and a conscious eco friendly establishment.'|RESTAURANT#MISCELLANEOUS|positive
+BHD#9|BHD#9:2|b'One of the best hot dogs I have ever eaten.'|FOOD#QUALITY|positive
+BHD#9|BHD#9:3|"b""Can't wait to go back."""|RESTAURANT#GENERAL|positive
+BzG#1|BzG#1:0|b'The Cypriot restaurant has a lot going for it.'|RESTAURANT#GENERAL|positive
+BzG#1|BzG#1:1|b'But the best pork souvlaki I ever had is the main thing.'|FOOD#QUALITY|positive
+BzG#1|BzG#1:3|"b""Run don't walk."""|RESTAURANT#GENERAL|positive
+EVPK#10|EVPK#10:0|b'Super YUMMY Pizza!'|FOOD#QUALITY|positive
+EVPK#10|EVPK#10:1|b'I was visiting New York City with a friend and we discovered this really warm and inviting restaurant.'|AMBIENCE#GENERAL|positive
+EVPK#10|EVPK#10:2|b'I LOOOVE their eggplant pizza, as well as their pastas!'|FOOD#QUALITY|positive
+EVPK#10|EVPK#10:2|b'I LOOOVE their eggplant pizza, as well as their pastas!'|FOOD#QUALITY|positive
+EVPK#10|EVPK#10:3|b'We had half/half pizza, mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza!'|FOOD#STYLE_OPTIONS|positive
+EVPK#10|EVPK#10:4|b'We had fun eating in there, we were there like around 3 a.m. in the morning!'|RESTAURANT#GENERAL|positive
+EVPK#10|EVPK#10:5|b'Will comeback for sure, wish they have it here in LA..'|RESTAURANT#GENERAL|positive
+Z#3|Z#3:0|b'Excellent food, although the interior could use some help.'|FOOD#QUALITY|positive
+Z#3|Z#3:0|b'Excellent food, although the interior could use some help.'|AMBIENCE#GENERAL|negative
+Z#3|Z#3:1|b'The space kind of feels like an Alice in Wonderland setting, without it trying to be that.'|AMBIENCE#GENERAL|negative
+Z#3|Z#3:2|b'I paid just about $60 for a good meal, though :)'|FOOD#QUALITY|positive
+Z#3|Z#3:2|b'I paid just about $60 for a good meal, though :)'|FOOD#PRICES|positive
+Z#3|Z#3:3|b'Great sake!'|DRINKS#QUALITY|positive
+Y#7|Y#7:0|b'Reliable, Fresh Sushi'|FOOD#QUALITY|positive
+Y#7|Y#7:2|b'The sashimi is always fresh and the rolls are innovative and delicious.'|FOOD#QUALITY|positive
+Y#7|Y#7:2|b'The sashimi is always fresh and the rolls are innovative and delicious.'|FOOD#STYLE_OPTIONS|positive
+Y#7|Y#7:2|b'The sashimi is always fresh and the rolls are innovative and delicious.'|FOOD#QUALITY|positive
+Y#7|Y#7:3|b'Have never had a problem with service save a missing rice once.'|SERVICE#GENERAL|positive
+Y#7|Y#7:4|b'Delivery can be spot on or lacking depending on the weather and the day of the week.'|SERVICE#GENERAL|negative
+Y#7|Y#7:5|"b""Delivery guy sometimes get upset if you don't tip more than 10%."""|SERVICE#GENERAL|negative
+Y#3|Y#3:0|b'Best. Sushi. Ever.'|FOOD#QUALITY|positive
+Y#3|Y#3:1|b'This place has ruined me for neighborhood sushi.'|FOOD#QUALITY|positive
+Y#3|Y#3:2|b'Creative, consistent, fresh.'|FOOD#QUALITY|positive
+Y#3|Y#3:2|b'Creative, consistent, fresh.'|FOOD#STYLE_OPTIONS|positive
+Y#3|Y#3:3|b'Excellent sashimi, and the millennium roll is beyond delicious.'|FOOD#QUALITY|positive
+Y#3|Y#3:3|b'Excellent sashimi, and the millennium roll is beyond delicious.'|FOOD#QUALITY|positive
+Y#3|Y#3:4|b'Not cheap but very yummy.'|FOOD#PRICES|negative
+Y#3|Y#3:4|b'Not cheap but very yummy.'|FOOD#QUALITY|positive
+Y#3|Y#3:5|b'Love it.'|RESTAURANT#GENERAL|positive
+Y#2|Y#2:0|b'Very, very nice'|RESTAURANT#GENERAL|positive
+Y#2|Y#2:1|"b""The place is a bit hidden away, but once you get there, it's all worth it."""|LOCATION#GENERAL|neutral
+Y#2|Y#2:1|"b""The place is a bit hidden away, but once you get there, it's all worth it."""|RESTAURANT#GENERAL|positive
+Y#2|Y#2:2|b'not only is the food'|FOOD#QUALITY|positive
+Y#2|Y#2:2|b'not only is the food'|RESTAURANT#GENERAL|positive
+WE#9|WE#9:0|b'Loved It'|RESTAURANT#GENERAL|positive
+WE#9|WE#9:2|b'We had a very nice time.'|RESTAURANT#GENERAL|positive
+WE#9|WE#9:3|b'The waiter was attentive, the food was delicious and the views of the city were great.'|SERVICE#GENERAL|positive
+WE#9|WE#9:3|b'The waiter was attentive, the food was delicious and the views of the city were great.'|FOOD#QUALITY|positive
+WE#9|WE#9:3|b'The waiter was attentive, the food was delicious and the views of the city were great.'|LOCATION#GENERAL|positive
+WE#9|WE#9:4|"b""I'd definitely go back again."""|RESTAURANT#GENERAL|positive
+TR#3|TR#3:0|b'Great place to relax and enjoy your dinner'|AMBIENCE#GENERAL|positive
+TR#3|TR#3:1|b'There is something about their atmosphere that makes me come back nearly every week.'|AMBIENCE#GENERAL|positive
+TR#3|TR#3:2|b'Place is open till late, no dress code.'|RESTAURANT#MISCELLANEOUS|positive
+TR#3|TR#3:3|b'Good food: my favorite is the seafood spaghetti.'|FOOD#QUALITY|positive
+TR#3|TR#3:3|b'Good food: my favorite is the seafood spaghetti.'|FOOD#QUALITY|positive
+TR#3|TR#3:4|b'Highly recommended!'|RESTAURANT#GENERAL|positive
+TM#7|TM#7:0|b'Excellent food for great prices'|FOOD#QUALITY|positive
+TM#7|TM#7:0|b'Excellent food for great prices'|FOOD#PRICES|positive
+TM#7|TM#7:1|b'My husband and I have been sold on this from the first visit.'|RESTAURANT#GENERAL|positive
+TM#7|TM#7:2|b'The wait staff is very courteous and accomodating.'|SERVICE#GENERAL|positive
+TM#7|TM#7:3|b'The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.'|AMBIENCE#GENERAL|neutral
+TM#7|TM#7:3|b'The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.'|RESTAURANT#MISCELLANEOUS|negative
+TM#7|TM#7:3|b'The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.'|FOOD#QUALITY|positive
+TM#7|TM#7:4|b'There are no negatives to speak of.'|RESTAURANT#GENERAL|positive
+RL#7|RL#7:0|b'the bestt!'|RESTAURANT#GENERAL|positive
+RL#7|RL#7:1|b'my favorite place lol'|RESTAURANT#GENERAL|positive
+RL#7|RL#7:2|b'i love their chicken pasta cant remember the name but is sooo good'|FOOD#QUALITY|positive
+RL#3|RL#3:0|b'its alright'|RESTAURANT#GENERAL|neutral
+RL#3|RL#3:1|b'im not necessarily fanatical about this place, but it was a fun time for low pirces.'|RESTAURANT#GENERAL|positive
+RL#3|RL#3:1|b'im not necessarily fanatical about this place, but it was a fun time for low pirces.'|RESTAURANT#PRICES|positive
+RL#3|RL#3:2|b'lobster was good, nothing spectacular.'|FOOD#QUALITY|neutral
+RL#3|RL#3:3|b'its just a fun place to go, not a five star restaraunt.'|RESTAURANT#GENERAL|neutral
+PP#9|PP#9:0|b'Way below average'|RESTAURANT#GENERAL|negative
+PP#9|PP#9:1|b'I think the pizza is so overrated and was under cooked.'|FOOD#QUALITY|negative
+PP#9|PP#9:2|b'Had no flavor and the staff is rude and not attentive.'|SERVICE#GENERAL|negative
+PP#9|PP#9:2|b'Had no flavor and the staff is rude and not attentive.'|FOOD#QUALITY|negative
+PP#9|PP#9:3|b'Would NEVER go back'|RESTAURANT#GENERAL|negative
+PP#4|PP#4:0|b'I love this place'|RESTAURANT#GENERAL|positive
+PP#4|PP#4:1|"b""I wasn't here for the pizza so I can't comment on that yet but what I had was very good."""|FOOD#QUALITY|positive
+PP#4|PP#4:2|b'The service was quick and friendly.'|SERVICE#GENERAL|positive
+PP#4|PP#4:3|b'Everyone was smiling so that made me feel welcome.'|SERVICE#GENERAL|positive
+PP#4|PP#4:4|b'I thought the restaurant was nice and clean.'|RESTAURANT#GENERAL|positive
+PP#4|PP#4:4|b'I thought the restaurant was nice and clean.'|AMBIENCE#GENERAL|positive
+PP#4|PP#4:5|b'I ordered the vitello alla marsala and I was pretty impressed.'|FOOD#QUALITY|positive
+PP#4|PP#4:6|b'The veal and the mushrooms were cooked perfectly.'|FOOD#QUALITY|positive
+PP#4|PP#4:6|b'The veal and the mushrooms were cooked perfectly.'|FOOD#QUALITY|positive
+PP#4|PP#4:7|b'The potato balls were not dry at all... in fact it was buttery.'|FOOD#QUALITY|positive
+PP#4|PP#4:8|b'The only downside... they only take cash which is OK if you know about it ahead of time.'|RESTAURANT#MISCELLANEOUS|negative
+PP#4|PP#4:9|"b""I'll be back for sure."""|RESTAURANT#GENERAL|positive
+P#1|P#1:0|b'WORST PLACE ON SMITH STREET IN BROOKLYN'|RESTAURANT#GENERAL|negative
+P#1|P#1:1|b'Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers.'|SERVICE#GENERAL|negative
+P#1|P#1:1|b'Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers.'|SERVICE#GENERAL|negative
+P#1|P#1:1|b'Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers.'|FOOD#QUALITY|negative
+P#1|P#1:1|b'Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers.'|SERVICE#GENERAL|negative
+P#1|P#1:2|b'I would never recommend this place to anybody even for a casual dinner.'|RESTAURANT#GENERAL|negative
+P#1|P#1:2|b'I would never recommend this place to anybody even for a casual dinner.'|RESTAURANT#MISCELLANEOUS|negative
+RL#9|RL#9:0|b'awesome'|RESTAURANT#GENERAL|positive
+RL#9|RL#9:1|b'the food is always fresh ...'|FOOD#QUALITY|positive
+Y#5|Y#5:0|b'overpriced japanese food with mediocre service'|FOOD#PRICES|negative
+Y#5|Y#5:0|b'overpriced japanese food with mediocre service'|SERVICE#GENERAL|neutral
+Y#5|Y#5:1|b'Went here on sat 1/26 and was disappointed.'|RESTAURANT#GENERAL|negative
+Y#5|Y#5:2|b'Chicken teriyaki had tomato or pimentos on top??'|FOOD#STYLE_OPTIONS|negative
+Y#5|Y#5:3|b'food was luke warm.'|FOOD#QUALITY|negative
+Y#5|Y#5:4|b'The waitress was not attentive at all.'|SERVICE#GENERAL|negative
+Y#5|Y#5:5|b'I was looking for banana tempura for dessert and they dont have.'|FOOD#STYLE_OPTIONS|negative
+TFS#8|TFS#8:0|"b'Not because you are ""The Four Seasons""... \xe2\x80\x93 you are allowed to charge an arm and a leg for a romatic dinner.'"|RESTAURANT#PRICES|negative
+TFS#8|TFS#8:1|b'The food was excellent as well as service, however, I left The Four Seasons very dissappointed.'|FOOD#QUALITY|positive
+TFS#8|TFS#8:1|b'The food was excellent as well as service, however, I left The Four Seasons very dissappointed.'|SERVICE#GENERAL|positive
+TFS#8|TFS#8:1|b'The food was excellent as well as service, however, I left The Four Seasons very dissappointed.'|RESTAURANT#GENERAL|negative
+TFS#8|TFS#8:2|b'I do not think dinner in Manhattan should cost $400.00 where I am not swept off my feet.'|FOOD#PRICES|negative
+Y#4|Y#4:0|b'Red Dragon Roll - my favorite thing to eat, of any food group - hands down'|FOOD#QUALITY|positive
+Y#4|Y#4:1|b'Just go to Yamato and order the Red Dragon Roll.'|RESTAURANT#GENERAL|positive
+Y#4|Y#4:1|b'Just go to Yamato and order the Red Dragon Roll.'|FOOD#QUALITY|positive
+Y#4|Y#4:2|"b""If you don't like it, I don't know what to tell you."""|FOOD#QUALITY|positive
+Y#4|Y#4:3|b'The Seafood Dynamite is also otherworldly.'|FOOD#QUALITY|positive
+Y#4|Y#4:4|"b""I'm not even going to bother to describe it; it speaks for itself."""|FOOD#QUALITY|positive
+Y#6|Y#6:0|b'Favorite Sushi in NYC'|FOOD#QUALITY|positive
+Y#6|Y#6:2|b'An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming.'|AMBIENCE#GENERAL|positive
+Y#6|Y#6:2|b'An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming.'|FOOD#QUALITY|positive
+Y#6|Y#6:2|b'An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming.'|SERVICE#GENERAL|positive
+Y#6|Y#6:3|b'In the summer months, the back garden area is really nice.'|AMBIENCE#GENERAL|positive
+Y#6|Y#6:4|b'The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.'|FOOD#STYLE_OPTIONS|positive
+Y#6|Y#6:4|b'The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.'|FOOD#STYLE_OPTIONS|positive
+Y#6|Y#6:4|b'The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.'|FOOD#QUALITY|positive
+Y#6|Y#6:5|b'The Dancing, White River and Millenium rolls are musts.'|FOOD#QUALITY|positive
+RL#4|RL#4:0|b'SO GOOD'|RESTAURANT#GENERAL|positive
+RL#4|RL#4:1|b'I CAN EAT HERE EVERY DAY OF THE WEEK REALLY LOL LOVE THIS PLACE ...)'|RESTAURANT#GENERAL|positive
+P#10|P#10:0|b'Gross food \xe2\x80\x93 Wow-'|FOOD#QUALITY|negative
+P#10|P#10:1|"b""I can't remember the last time I had such gross food in New York."""|FOOD#QUALITY|negative
+P#10|P#10:2|b'My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.'|FOOD#QUALITY|negative
+P#10|P#10:2|b'My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.'|FOOD#STYLE_OPTIONS|negative
+P#10|P#10:3|b'And $11 for a plate of bland guacamole?'|FOOD#QUALITY|negative
+P#10|P#10:3|b'And $11 for a plate of bland guacamole?'|FOOD#PRICES|negative
+P#10|P#10:5|"b""Don't get me started on the margaritas, either."""|DRINKS#QUALITY|negative
+P#10|P#10:6|b'Mine tasted like the bartender had forgotten to add the tequila.'|DRINKS#QUALITY|negative
+P#10|P#10:8|b'Save your money and your time and go somewhere else.'|RESTAURANT#GENERAL|negative
+P#10|P#10:9|b'Oh, and I never write reviews--I just was so moved by how bad this place was, I felt it was my duty to spread the word.'|RESTAURANT#GENERAL|negative
+TM#3|TM#3:0|b'Great Indian Food!'|FOOD#QUALITY|positive
+TM#3|TM#3:2|b'When I got there the place was packed but they made sure to seat me quickly.'|SERVICE#GENERAL|positive
+TM#3|TM#3:3|b'The food was good, the place was clean and affordable.'|FOOD#QUALITY|positive
+TM#3|TM#3:3|b'The food was good, the place was clean and affordable.'|AMBIENCE#GENERAL|positive
+TM#3|TM#3:3|b'The food was good, the place was clean and affordable.'|RESTAURANT#PRICES|positive
+TM#3|TM#3:4|b'I noticed alot of indian people eatting there which is a great sign for an indian place!'|RESTAURANT#MISCELLANEOUS|positive
+TR#1|TR#1:0|b'This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .'|RESTAURANT#GENERAL|positive
+TR#1|TR#1:0|b'This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .'|AMBIENCE#GENERAL|positive
+TR#1|TR#1:0|b'This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .'|FOOD#QUALITY|positive
+TR#1|TR#1:0|b'This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .'|RESTAURANT#MISCELLANEOUS|positive
+TR#1|TR#1:1|b'The staff is very good.'|SERVICE#GENERAL|positive
+TR#1|TR#1:2|b'Love their drink menu.'|DRINKS#STYLE_OPTIONS|positive
+TR#1|TR#1:3|b'I highly recommend this beautiful place.'|AMBIENCE#GENERAL|positive
+TR#1|TR#1:3|b'I highly recommend this beautiful place.'|RESTAURANT#GENERAL|positive
+TR#8|TR#8:0|b'Nice for one time special occasion.'|RESTAURANT#MISCELLANEOUS|positive
+TR#8|TR#8:2|b'They honored reservation on Sunday afternoon very well. '|SERVICE#GENERAL|positive
+TR#8|TR#8:4|b'We were offered water for the table but were not told the Voss bottles of water were $8 a piece.'|DRINKS#PRICES|negative
+TR#8|TR#8:5|b'Food was OK.'|FOOD#QUALITY|neutral
+TR#8|TR#8:6|b'Nice view of river and NYC.'|LOCATION#GENERAL|positive
+BG#1|BG#1:0|b'I come here enjoy very much with husband.'|RESTAURANT#GENERAL|positive
+BG#1|BG#1:1|b'Remind me of home.'|RESTAURANT#MISCELLANEOUS|positive
+BG#1|BG#1:2|b'Great survice'|SERVICE#GENERAL|positive
+ADLT#4|ADLT#4:0|b'MMMMMMMMMmmmmmm so delicious'|FOOD#QUALITY|positive
+CLF#1|CLF#1:0|b'A beautifully designed dreamy Egyptian restaurant that gets sceney at night.'|AMBIENCE#GENERAL|positive
+CLF#1|CLF#1:1|"b""Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky."""|FOOD#QUALITY|positive
+CLF#1|CLF#1:1|"b""Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky."""|AMBIENCE#GENERAL|positive
+CLF#1|CLF#1:2|"b""Oh, and there's hookah."""|AMBIENCE#GENERAL|positive
+P#9|P#9:0|b'Raymond the bartender rocks!'|SERVICE#GENERAL|positive
+P#9|P#9:1|b'Pacifico is a great place to casually hang out.'|RESTAURANT#MISCELLANEOUS|positive
+P#9|P#9:2|b'The drinks are great, especially when made by Raymond.'|DRINKS#QUALITY|positive
+P#9|P#9:2|b'The drinks are great, especially when made by Raymond.'|SERVICE#GENERAL|positive
+P#9|P#9:3|b'The omlette for brunch is great...'|FOOD#QUALITY|positive
+P#9|P#9:4|b'the spinach is fresh, definately not frozen...'|FOOD#QUALITY|positive
+P#9|P#9:5|b'quacamole at pacifico is yummy, as are the wings with chimmichuri.'|FOOD#QUALITY|positive
+P#9|P#9:5|b'quacamole at pacifico is yummy, as are the wings with chimmichuri.'|FOOD#QUALITY|positive
+P#9|P#9:6|b'A weakness is the chicken in the salads.'|FOOD#QUALITY|negative
+P#9|P#9:7|"b""It's just average, just shredded, no seasoning on it."""|FOOD#QUALITY|negative
+P#9|P#9:8|"b""Also, I personally wasn't a fan of the portobello and asparagus mole."""|FOOD#QUALITY|negative
+P#9|P#9:9|b'Overall, decent food at a good price, with friendly people.'|FOOD#QUALITY|neutral
+P#9|P#9:9|b'Overall, decent food at a good price, with friendly people.'|FOOD#PRICES|positive
+P#9|P#9:9|b'Overall, decent food at a good price, with friendly people.'|SERVICE#GENERAL|positive
+BG#6|BG#6:0|b'Best Indian Restaurant in the City'|RESTAURANT#GENERAL|positive
+BG#6|BG#6:1|b'Decor needs to be upgraded but the food is amazing!'|AMBIENCE#GENERAL|negative
+BG#6|BG#6:1|b'Decor needs to be upgraded but the food is amazing!'|FOOD#QUALITY|positive
+BzG#4|BzG#4:0|b'This small Astoria souvlaki spot makes what many consider the best gyros in New York.'|FOOD#QUALITY|positive
+BzG#4|BzG#4:2|b'What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected.'|FOOD#QUALITY|positive
+BzG#4|BzG#4:2|b'What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected.'|FOOD#QUALITY|positive
+BzG#4|BzG#4:2|b'What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected.'|FOOD#QUALITY|positive
+BzG#4|BzG#4:2|b'What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected.'|FOOD#QUALITY|positive
+BzG#4|BzG#4:3|"b""All the various Greek and Cypriot dishes are excellent, but the gyro is the reason to come--if you don't eat one your trip was wasted."""|FOOD#QUALITY|positive
+BzG#4|BzG#4:3|"b""All the various Greek and Cypriot dishes are excellent, but the gyro is the reason to come--if you don't eat one your trip was wasted."""|FOOD#QUALITY|positive
+NP#10|NP#10:0|b'Best restaurant in Brooklyn'|RESTAURANT#GENERAL|positive
+NP#10|NP#10:1|b'The best!'|RESTAURANT#GENERAL|positive
+NP#10|NP#10:2|b'Great food, amazing service, this place is a class act.'|FOOD#QUALITY|positive
+NP#10|NP#10:2|b'Great food, amazing service, this place is a class act.'|SERVICE#GENERAL|positive
+NP#10|NP#10:2|b'Great food, amazing service, this place is a class act.'|RESTAURANT#GENERAL|positive
+NP#10|NP#10:3|b'The veal was incredible last night.'|FOOD#QUALITY|positive
+NP#10|NP#10:4|b'Fresh, mind blowing flavors.'|FOOD#QUALITY|positive
+NP#10|NP#10:5|b'This place is a must visit!'|RESTAURANT#GENERAL|positive
+BHD#2|BHD#2:2|b'Delicious, creative and fun.'|FOOD#QUALITY|positive
+BHD#2|BHD#2:2|b'Delicious, creative and fun.'|FOOD#STYLE_OPTIONS|positive
+Z#11|Z#11:0|b'Got a date? Go here!'|RESTAURANT#MISCELLANEOUS|positive
+Z#11|Z#11:1|b'Every time I have a special occasion with my boyfriend I have a hard time going anywhere else.'|RESTAURANT#MISCELLANEOUS|positive
+Z#11|Z#11:2|b'It is so romantic.'|AMBIENCE#GENERAL|positive
+Z#11|Z#11:3|b'Its dark, and cozy.. there is always jazz music playing when we go.'|AMBIENCE#GENERAL|positive
+Z#11|Z#11:4|"b""Most of the booths allow you to sit next to eachother without looking like 'that' couple."""|AMBIENCE#GENERAL|positive
+Z#11|Z#11:5|b'The food is all shared so we get to order together and eat together.'|FOOD#STYLE_OPTIONS|positive
+Z#11|Z#11:6|"b""I've enjoyed 99% of the dishes we've ordered with the only exceptions being the occasional too-authentic-for-me dish (I'm a daring eater but not THAT daring)."""|FOOD#QUALITY|positive
+Z#11|Z#11:6|"b""I've enjoyed 99% of the dishes we've ordered with the only exceptions being the occasional too-authentic-for-me dish (I'm a daring eater but not THAT daring)."""|FOOD#QUALITY|negative
+Z#11|Z#11:7|"b""Once you try it for a special occasion beware.. you can't stop!"""|RESTAURANT#MISCELLANEOUS|positive
+Z#11|Z#11:8|"b""You'll be ther for every anniversary, birthday, valentines day..."""|RESTAURANT#MISCELLANEOUS|positive
+WE#4|WE#4:0|b'For a Fabulous Wedding!'|RESTAURANT#MISCELLANEOUS|positive
+WE#4|WE#4:1|"b""My daughter's wedding reception at Water's Edge received the highest compliments from our guests."""|RESTAURANT#MISCELLANEOUS|positive
+WE#4|WE#4:2|b'Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!'|AMBIENCE#GENERAL|positive
+WE#4|WE#4:2|b'Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!'|AMBIENCE#GENERAL|positive
+WE#4|WE#4:2|b'Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!'|LOCATION#GENERAL|positive
+WE#4|WE#4:2|b'Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!'|FOOD#QUALITY|positive
+WE#4|WE#4:3|b'Service was wonderful;'|SERVICE#GENERAL|positive
+WE#4|WE#4:4|b'everyone was cheerfully cooperative and helpful.'|SERVICE#GENERAL|positive
+WE#4|WE#4:5|"b""Paul, the maitre d', was totally professional and always on top of things."""|SERVICE#GENERAL|positive
+WE#4|WE#4:6|"b""Thank you everyone at Water's Edge."""|RESTAURANT#GENERAL|positive
+TR#2|TR#2:0|b'would NOT go back.'|RESTAURANT#GENERAL|negative
+TR#2|TR#2:1|b'Service ok but unfriendly,filthy bathroom.'|SERVICE#GENERAL|negative
+TR#2|TR#2:1|b'Service ok but unfriendly,filthy bathroom.'|AMBIENCE#GENERAL|negative
+TR#2|TR#2:2|"b""The high prices you're going to pay is for the view not for the food."""|LOCATION#GENERAL|neutral
+TR#2|TR#2:2|"b""The high prices you're going to pay is for the view not for the food."""|FOOD#QUALITY|negative
+TR#2|TR#2:2|"b""The high prices you're going to pay is for the view not for the food."""|RESTAURANT#PRICES|negative
+TR#2|TR#2:3|b'The bar drinks were Eh, ok to say the least.'|DRINKS#QUALITY|negative
+TR#2|TR#2:4|b'The stuff tilapia was horrid...tasted like cardboard.'|FOOD#QUALITY|negative
+TR#2|TR#2:5|b'We thought the dessert would be better, Wrong!'|FOOD#QUALITY|negative
+TR#2|TR#2:6|b'$170 down the toilet...'|RESTAURANT#GENERAL|negative
+TR#2|TR#2:6|b'$170 down the toilet...'|RESTAURANT#PRICES|negative
+TR#2|TR#2:7|b'oh speaking of bathroom , the mens bathroom was disgusting.'|AMBIENCE#GENERAL|negative
+TR#2|TR#2:8|b'The floor was wet, the trash can filled with hand towels n all over the floor, no soap, and no hand towels left.'|AMBIENCE#GENERAL|negative
+TFS#10|TFS#10:0|b'Good Experience'|RESTAURANT#GENERAL|positive
+TFS#10|TFS#10:2|b'The wine list was extensive - though the staff did not seem knowledgeable about wine pairings.'|DRINKS#STYLE_OPTIONS|positive
+TFS#10|TFS#10:2|b'The wine list was extensive - though the staff did not seem knowledgeable about wine pairings.'|SERVICE#GENERAL|negative
+TFS#10|TFS#10:3|"b'The bread we received was horrible - rock hard and cold - and the ""free"" appetizer of olives was disappointing.'"|FOOD#QUALITY|negative
+TFS#10|TFS#10:3|"b'The bread we received was horrible - rock hard and cold - and the ""free"" appetizer of olives was disappointing.'"|FOOD#QUALITY|negative
+TFS#10|TFS#10:3|"b'The bread we received was horrible - rock hard and cold - and the ""free"" appetizer of olives was disappointing.'"|FOOD#PRICES|neutral
+TFS#10|TFS#10:4|b'However, our main course was wonderful.'|FOOD#QUALITY|positive
+TFS#10|TFS#10:5|b'I had fish and my husband had the filet - both of which exceeded our expectations.'|FOOD#QUALITY|positive
+TFS#10|TFS#10:5|b'I had fish and my husband had the filet - both of which exceeded our expectations.'|FOOD#QUALITY|positive
+TFS#10|TFS#10:6|b'The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions.'|FOOD#QUALITY|positive
+TFS#10|TFS#10:6|b'The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions.'|SERVICE#GENERAL|negative
+TFS#10|TFS#10:7|b'When we inquired about ports - the waitress listed off several but did not know taste variations or cost.'|SERVICE#GENERAL|negative
+TFS#10|TFS#10:8|b'Not what I would expect for the price and prestige of this location.'|SERVICE#GENERAL|negative
+TFS#10|TFS#10:8|b'Not what I would expect for the price and prestige of this location.'|RESTAURANT#PRICES|neutral
+TFS#10|TFS#10:8|b'Not what I would expect for the price and prestige of this location.'|RESTAURANT#MISCELLANEOUS|neutral
+TFS#10|TFS#10:9|b'All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future.'|RESTAURANT#GENERAL|positive
+TFS#10|TFS#10:9|b'All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future.'|AMBIENCE#GENERAL|positive
+TFS#10|TFS#10:9|b'All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future.'|SERVICE#GENERAL|negative
+Z#9|Z#9:0|"b""short and sweet \xe2\x80\x93 seating is great:it's romantic,cozy and private."""|AMBIENCE#GENERAL|positive
+Z#9|Z#9:1|"b""The boths are not as small as some of the reviews make them out to look they're perfect for 2 people."""|AMBIENCE#GENERAL|positive
+Z#9|Z#9:2|b'The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.'|SERVICE#GENERAL|positive
+Z#9|Z#9:2|b'The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.'|SERVICE#GENERAL|positive
+Z#9|Z#9:2|b'The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.'|SERVICE#GENERAL|negative
+Z#9|Z#9:3|b'The food was ok and fair nothing to go crazy.'|FOOD#QUALITY|neutral
+Z#9|Z#9:5|b'Over all the looks of the place exceeds the actual meals.'|AMBIENCE#GENERAL|positive
+Z#9|Z#9:5|b'Over all the looks of the place exceeds the actual meals.'|FOOD#QUALITY|negative
+Z#9|Z#9:6|b'So what you really end up paying for is the restaurant not the food.'|RESTAURANT#PRICES|negative
+Z#9|Z#9:6|b'So what you really end up paying for is the restaurant not the food.'|AMBIENCE#GENERAL|neutral
+Z#9|Z#9:6|b'So what you really end up paying for is the restaurant not the food.'|FOOD#QUALITY|negative
+Z#9|Z#9:7|b'Will prob. not return but it is a great dinning experience to try atleast once.'|RESTAURANT#GENERAL|negative
+Z#9|Z#9:7|b'Will prob. not return but it is a great dinning experience to try atleast once.'|RESTAURANT#GENERAL|positive
+NP#3|NP#3:0|b'Impressed...'|RESTAURANT#GENERAL|positive
+NP#3|NP#3:1|b'Subtle food and service'|FOOD#QUALITY|positive
+NP#3|NP#3:1|b'Subtle food and service'|SERVICE#GENERAL|positive
+NP#3|NP#3:2|b'Noodle pudding is exactly the type of service and food I enjoy.'|SERVICE#GENERAL|positive
+NP#3|NP#3:2|b'Noodle pudding is exactly the type of service and food I enjoy.'|FOOD#QUALITY|positive
+NP#3|NP#3:3|b'Servers are all different, Greg is my favorite.'|SERVICE#GENERAL|positive
+NP#3|NP#3:4|"b""Sometimes tables don't understand his sense of humor but it's refreshing to have a server who has personality, professionalism, and respects the privacy of your dinner."""|SERVICE#GENERAL|positive
+NP#3|NP#3:5|"b""This is the first place I've been that a runner remembers my order... hope he likes his job because I have half a mind to steal him for my restaurant."""|SERVICE#GENERAL|positive
+NP#3|NP#3:6|b'Prices are fair across the board for both food and bev.'|FOOD#PRICES|positive
+NP#3|NP#3:6|b'Prices are fair across the board for both food and bev.'|DRINKS#PRICES|positive
+NP#3|NP#3:7|b'I go out to eat and like my courses, servers are patient and never rush courses or force another drink.'|SERVICE#GENERAL|positive
+BHD#7|BHD#7:0|b'amazing fresh dogs but best of all endless toppings!!!'|FOOD#QUALITY|positive
+BHD#7|BHD#7:0|b'amazing fresh dogs but best of all endless toppings!!!'|FOOD#STYLE_OPTIONS|positive
+BHD#7|BHD#7:1|b'this place had ALL the trimmings and i mean all.'|FOOD#STYLE_OPTIONS|positive
+BHD#7|BHD#7:2|b'peppers, onions, relish, chilli, cheeses, you NAME it.'|FOOD#STYLE_OPTIONS|positive
+BHD#7|BHD#7:3|b'amazing fun for hot dog lovers of all ages PLEASE do yourself a favor and check this place out!!!!'|RESTAURANT#GENERAL|positive
+BHD#7|BHD#7:3|b'amazing fun for hot dog lovers of all ages PLEASE do yourself a favor and check this place out!!!!'|FOOD#QUALITY|positive
+CLF#5|CLF#5:0|b'BEST DINING EXPERIENCE IN THE WEST VILLAGE!'|RESTAURANT#GENERAL|positive
+CLF#5|CLF#5:1|b'Stepping into Casa La Femme last night was a true experience unlike any other in New York!'|RESTAURANT#GENERAL|positive
+CLF#5|CLF#5:2|b'Highly impressed from the decor to the food to the hospitality to the great night I had!'|AMBIENCE#GENERAL|positive
+CLF#5|CLF#5:2|b'Highly impressed from the decor to the food to the hospitality to the great night I had!'|FOOD#QUALITY|positive
+CLF#5|CLF#5:2|b'Highly impressed from the decor to the food to the hospitality to the great night I had!'|SERVICE#GENERAL|positive
+CLF#5|CLF#5:2|b'Highly impressed from the decor to the food to the hospitality to the great night I had!'|RESTAURANT#GENERAL|positive
+CLF#5|CLF#5:3|b'The have a great cocktail with Citrus Vodka and lemon and lime juice and mint leaves that is to die for!'|DRINKS#QUALITY|positive
+CLF#5|CLF#5:4|b'Food took some time to prepare, all worth waiting for.'|FOOD#QUALITY|positive
+CLF#5|CLF#5:4|b'Food took some time to prepare, all worth waiting for.'|SERVICE#GENERAL|neutral
+CLF#5|CLF#5:5|b'We were drawn into the belly dancing show that captivated the crowd.'|AMBIENCE#GENERAL|positive
+CLF#5|CLF#5:6|b'I never write on these sites but this restaurant is def worth commending!'|RESTAURANT#GENERAL|positive
+CLF#5|CLF#5:7|b'Great find in the West Village!'|RESTAURANT#GENERAL|positive
+NP#4|NP#4:0|b'Maggot in the food!'|FOOD#QUALITY|negative
+NP#4|NP#4:2|b'The menu looked great, and the waiter was very nice, but when the food came, it was average.'|FOOD#STYLE_OPTIONS|positive
+NP#4|NP#4:2|b'The menu looked great, and the waiter was very nice, but when the food came, it was average.'|SERVICE#GENERAL|positive
+NP#4|NP#4:2|b'The menu looked great, and the waiter was very nice, but when the food came, it was average.'|FOOD#QUALITY|neutral
+NP#4|NP#4:3|"b""Nevertheless, I finished my plate, and that's when I found a maggot in mushroom sauce at the bottom."""|FOOD#QUALITY|negative
+NP#4|NP#4:4|b'I showed it to the manager, and he smilingly apologized and brought us two free desserts (but did not ask us what we wanted and so brought the last two desserts we would have asked for).'|SERVICE#GENERAL|positive
+NP#4|NP#4:4|b'I showed it to the manager, and he smilingly apologized and brought us two free desserts (but did not ask us what we wanted and so brought the last two desserts we would have asked for).'|SERVICE#GENERAL|negative
+NP#4|NP#4:5|"b""When the bill came, nothing was comped, so I told the manager very politely that we were willing to pay for the wine, but I didn't think I should have to pay for food with a maggot in it."""|SERVICE#GENERAL|negative
+NP#4|NP#4:7|b'The manager finally said he would comp the two glasses of wine (which cost less than the food), and made it seem like a big concession.'|SERVICE#GENERAL|negative
+NP#4|NP#4:8|"b""We paid and left because we didn't feel like arguing any more."""|SERVICE#GENERAL|negative
+NP#4|NP#4:9|b'I have worked in restaurants and cook a lot, and there is no way a maggot should be able to get into well prepared food.'|FOOD#QUALITY|negative
+NP#4|NP#4:10|b'For a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service.'|RESTAURANT#MISCELLANEOUS|positive
+NP#4|NP#4:10|b'For a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service.'|SERVICE#GENERAL|negative
+P#6|P#6:0|b'Unhygienic'|FOOD#QUALITY|negative
+P#6|P#6:1|b'I do not recommend.'|RESTAURANT#GENERAL|negative
+P#6|P#6:3|b'I got hair in my food 2 times of then !'|FOOD#QUALITY|negative
+BzG#2|BzG#2:0|b'Great place, great value.'|RESTAURANT#GENERAL|positive
+BzG#2|BzG#2:0|b'Great place, great value.'|RESTAURANT#PRICES|positive
+BzG#2|BzG#2:1|b'The food is flavorful, plentiful and reasonably priced.'|FOOD#QUALITY|positive
+BzG#2|BzG#2:1|b'The food is flavorful, plentiful and reasonably priced.'|FOOD#STYLE_OPTIONS|positive
+BzG#2|BzG#2:1|b'The food is flavorful, plentiful and reasonably priced.'|FOOD#PRICES|positive
+BzG#2|BzG#2:2|b'The atmosphere is relaxed and casual.'|AMBIENCE#GENERAL|positive
+BzG#2|BzG#2:3|"b""It's a great place to order from or sit-in."""|RESTAURANT#MISCELLANEOUS|positive
+TVU#4|TVU#4:0|b'Awesome'|RESTAURANT#GENERAL|positive
+TVU#4|TVU#4:1|b'Inexpensive, unassuming, great time!'|RESTAURANT#PRICES|positive
+TVU#4|TVU#4:1|b'Inexpensive, unassuming, great time!'|AMBIENCE#GENERAL|positive
+TVU#4|TVU#4:1|b'Inexpensive, unassuming, great time!'|RESTAURANT#GENERAL|positive
+Z#2|Z#2:0|b'Sushi experience was unbelievable with my fiance.'|FOOD#QUALITY|positive
+Z#2|Z#2:1|b'Try it!'|RESTAURANT#GENERAL|positive
+Z#2|Z#2:2|b'Very pleased'|RESTAURANT#GENERAL|positive
+Y#9|Y#9:0|b'Good creative rolls!'|FOOD#QUALITY|positive
+Y#9|Y#9:0|b'Good creative rolls!'|FOOD#STYLE_OPTIONS|positive
+Y#9|Y#9:1|b'Yamato is an excellent place to go if youre not into sashimi, or if you have friends who doesnt like sushi much.'|RESTAURANT#MISCELLANEOUS|positive
+Y#9|Y#9:2|b'They have great rolls, the triple color and norwegetan rolls, are awesome and filling.'|FOOD#QUALITY|positive
+Y#9|Y#9:2|b'They have great rolls, the triple color and norwegetan rolls, are awesome and filling.'|FOOD#QUALITY|positive
+Y#9|Y#9:2|b'They have great rolls, the triple color and norwegetan rolls, are awesome and filling.'|FOOD#STYLE_OPTIONS|positive
+Y#9|Y#9:3|b'One special roll and one regular roll is enough to fill you up, but save room for dessert!'|FOOD#QUALITY|positive
+Y#9|Y#9:3|b'One special roll and one regular roll is enough to fill you up, but save room for dessert!'|FOOD#STYLE_OPTIONS|positive
+Y#9|Y#9:3|b'One special roll and one regular roll is enough to fill you up, but save room for dessert!'|FOOD#STYLE_OPTIONS|positive
+Y#9|Y#9:4|b'They have a delicious banana chocolate dessert, as well as a great green tea tempura.'|FOOD#QUALITY|positive
+Y#9|Y#9:4|b'They have a delicious banana chocolate dessert, as well as a great green tea tempura.'|FOOD#QUALITY|positive
+Y#9|Y#9:5|b'The appetizers are also delicious!'|FOOD#QUALITY|positive
+Z#5|Z#5:0|b'Amazing food.'|FOOD#QUALITY|positive
+Z#5|Z#5:1|b'Mazing interior.'|AMBIENCE#GENERAL|negative
+Z#5|Z#5:2|b'Great food!'|FOOD#QUALITY|positive
+Z#5|Z#5:3|"b""I've had my fair share of modern Japanese and this spot delivers."""|FOOD#QUALITY|positive
+Z#5|Z#5:4|b'The atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors.'|AMBIENCE#GENERAL|negative
+Z#5|Z#5:4|b'The atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors.'|AMBIENCE#GENERAL|negative
+Z#5|Z#5:5|"b""If you're into being lost when you're just five feet from your table then hey, that's a good thing."""|AMBIENCE#GENERAL|negative
+Z#5|Z#5:6|b'Despite the confusing mirrors this will likely be my go-to for modern Japanese food for the foreseeable future.'|FOOD#QUALITY|positive
+Z#5|Z#5:6|b'Despite the confusing mirrors this will likely be my go-to for modern Japanese food for the foreseeable future.'|AMBIENCE#GENERAL|negative
+TM#4|TM#4:0|b'Indo Chinese food, pretty good...'|FOOD#QUALITY|positive
+TM#4|TM#4:1|b'Not a very fancy place but very good Chinese style Indian food.'|AMBIENCE#GENERAL|neutral
+TM#4|TM#4:1|b'Not a very fancy place but very good Chinese style Indian food.'|FOOD#QUALITY|positive
+TM#4|TM#4:2|b'The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken.'|FOOD#QUALITY|positive
+TM#4|TM#4:2|b'The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken.'|FOOD#QUALITY|negative
+TM#4|TM#4:2|b'The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken.'|FOOD#QUALITY|negative
+TM#4|TM#4:3|b'My mom originally introduced me to this place, but even she (being Indian) feels the food can be somewhat over the top spicy and far too oily.'|FOOD#QUALITY|negative
+TM#4|TM#4:4|b'Still we keep going back :)'|RESTAURANT#GENERAL|positive
+TFS#11|TFS#11:0|b'I was speechless by the horrible food.'|FOOD#QUALITY|negative
+TFS#11|TFS#11:1|b'I attended a holiday dinner at the restaurant, and the food was majorly disappointing.'|FOOD#QUALITY|negative
+TFS#11|TFS#11:3|b'Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation).'|SERVICE#GENERAL|negative
+TFS#11|TFS#11:3|b'Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation).'|FOOD#QUALITY|negative
+TFS#11|TFS#11:3|b'Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation).'|FOOD#STYLE_OPTIONS|negative
+TFS#11|TFS#11:4|b'I was so stunned, and I left the dinner hungry and majorly disappointing.'|RESTAURANT#GENERAL|negative
+TFS#11|TFS#11:5|b'This place survives on reputation alone.'|RESTAURANT#MISCELLANEOUS|negative
+TFS#11|TFS#11:6|b'I will NEVER return.'|RESTAURANT#GENERAL|negative
+ADLT#10|ADLT#10:0|b'Best In ALL of NYC'|RESTAURANT#GENERAL|positive
+ADLT#10|ADLT#10:1|b'This is the MOST wonderful restaurant in all of New York City, not just Brooklyn...'|RESTAURANT#GENERAL|positive
+ADLT#10|ADLT#10:2|b'for 7 years they have put out the most tasty, most delicious food and kept it that way...'|FOOD#QUALITY|positive
+ADLT#10|ADLT#10:3|b'never swaying, never a bad meal, never bad service...'|RESTAURANT#GENERAL|positive
+ADLT#10|ADLT#10:3|b'never swaying, never a bad meal, never bad service...'|FOOD#QUALITY|positive
+ADLT#10|ADLT#10:3|b'never swaying, never a bad meal, never bad service...'|SERVICE#GENERAL|positive
+ADLT#10|ADLT#10:5|b'you should travel from the Bronx to try it...'|RESTAURANT#GENERAL|positive
+ADLT#10|ADLT#10:6|b'great food, great wine list, great service in a great neighborhood...'|FOOD#QUALITY|positive
+ADLT#10|ADLT#10:6|b'great food, great wine list, great service in a great neighborhood...'|DRINKS#STYLE_OPTIONS|positive
+ADLT#10|ADLT#10:6|b'great food, great wine list, great service in a great neighborhood...'|SERVICE#GENERAL|positive
+ADLT#10|ADLT#10:6|b'great food, great wine list, great service in a great neighborhood...'|LOCATION#GENERAL|positive
+ADLT#10|ADLT#10:7|b'so delicious!!!!!!'|FOOD#QUALITY|positive
+PP#3|PP#3:0|"b""Patsy's Pizza = true love"""|RESTAURANT#GENERAL|positive
+PP#3|PP#3:1|b'Hands down the best pizza on the planet.'|FOOD#QUALITY|positive
+PP#3|PP#3:3|b'In about 12 minutes, the thing is gone.'|FOOD#QUALITY|positive
+BHD#6|BHD#6:0|b'great hot dogs..'|FOOD#QUALITY|positive
+BHD#6|BHD#6:1|b'the hot dogs were juicy and tender inside and had plenty of crunch and snap on the outside.'|FOOD#QUALITY|positive
+BHD#6|BHD#6:2|b'great toppings definitely a place you need to check out for late night munchies or a mid day boost!'|FOOD#QUALITY|positive
+BHD#6|BHD#6:2|b'great toppings definitely a place you need to check out for late night munchies or a mid day boost!'|RESTAURANT#MISCELLANEOUS|positive
+TM#5|TM#5:0|b'great taste'|FOOD#QUALITY|positive
+TM#5|TM#5:1|b'Great, original taste.'|FOOD#QUALITY|positive
+TM#5|TM#5:2|b'For me dishes a little oily, but overall dining experience good.'|FOOD#QUALITY|negative
+TM#5|TM#5:2|b'For me dishes a little oily, but overall dining experience good.'|RESTAURANT#GENERAL|positive
+TM#5|TM#5:3|b'Helpful service and average price per dish $10.'|SERVICE#GENERAL|positive
+TM#5|TM#5:3|b'Helpful service and average price per dish $10.'|FOOD#PRICES|neutral
+TM#5|TM#5:4|b'The only thing that strikes you is the decor?(not very pleasant).'|AMBIENCE#GENERAL|negative
+TM#6|TM#6:0|b'great food'|FOOD#QUALITY|positive
+TM#6|TM#6:1|b'This place has great indian chinese food.'|FOOD#QUALITY|positive
+TM#6|TM#6:2|b'The flavors are amazing and the value is phenomenal.'|FOOD#QUALITY|positive
+TM#6|TM#6:2|b'The flavors are amazing and the value is phenomenal.'|FOOD#PRICES|positive
+TM#6|TM#6:3|b'Be prepared to wait, because the place is pretty tiny.'|RESTAURANT#MISCELLANEOUS|negative
+TM#6|TM#6:3|b'Be prepared to wait, because the place is pretty tiny.'|AMBIENCE#GENERAL|negative
+TM#6|TM#6:4|b'Also, they do not take credit card so come with cash!'|RESTAURANT#MISCELLANEOUS|neutral
+TM#6|TM#6:5|b'Even though the place is not beautiful, the food speaks for itself.'|AMBIENCE#GENERAL|negative
+TM#6|TM#6:5|b'Even though the place is not beautiful, the food speaks for itself.'|FOOD#QUALITY|positive
+TM#6|TM#6:6|b'Best Indian Chinese in the city, by far!'|FOOD#QUALITY|positive
+TVU#6|TVU#6:0|b'AMAZING MY FAVORITE!!!'|RESTAURANT#GENERAL|positive
+TVU#6|TVU#6:2|b'I came across Village Underground by accident, now I go there all the time.'|RESTAURANT#GENERAL|positive
+TVU#6|TVU#6:3|b'The martinis are amazing and very fairly priced.'|DRINKS#QUALITY|positive
+TVU#6|TVU#6:3|b'The martinis are amazing and very fairly priced.'|DRINKS#PRICES|positive
+TVU#6|TVU#6:4|"b""THE SERVICE IS AMAZING, i've had different waiters and they were all nice, which is a rare thing in NYC."""|SERVICE#GENERAL|positive
+TVU#6|TVU#6:4|"b""THE SERVICE IS AMAZING, i've had different waiters and they were all nice, which is a rare thing in NYC."""|SERVICE#GENERAL|positive
+TVU#6|TVU#6:5|b'The DJ is awesome, I have been there for my birthday and a bunch of other times with friends and I keep going back.'|AMBIENCE#GENERAL|positive
+TVU#6|TVU#6:5|b'The DJ is awesome, I have been there for my birthday and a bunch of other times with friends and I keep going back.'|RESTAURANT#GENERAL|positive
+TVU#6|TVU#6:6|"b""You can get a table without a reservation if you get there early I they don't make you by bottles."""|SERVICE#GENERAL|positive
+TVU#6|TVU#6:7|"b""Which lets face it....at times it's a good thing."""|SERVICE#GENERAL|positive
+TVU#6|TVU#6:8|b'In the end you end up with a fair tab and NOTHING BUT A GREAT TIME!!!'|RESTAURANT#PRICES|positive
+TVU#6|TVU#6:8|b'In the end you end up with a fair tab and NOTHING BUT A GREAT TIME!!!'|RESTAURANT#GENERAL|positive
+TVU#6|TVU#6:9|b'Highly recommended!'|RESTAURANT#GENERAL|positive
+ADLT#3|ADLT#3:0|b'One of the best, if not THE best, restaurants in Park Slope (and NY in general)'|RESTAURANT#GENERAL|positive
+ADLT#3|ADLT#3:1|b'Everything on the menu is great. '|FOOD#QUALITY|positive
+ADLT#3|ADLT#3:2|b'This establishment is the real deal. '|RESTAURANT#GENERAL|positive
+ADLT#3|ADLT#3:3|b'Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait.'|AMBIENCE#GENERAL|positive
+ADLT#3|ADLT#3:3|b'Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait.'|FOOD#QUALITY|positive
+ADLT#3|ADLT#3:3|b'Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait.'|RESTAURANT#GENERAL|positive
+TFS#5|TFS#5:2|"b""But $500 for a dinner for two that didn't include Wine?"""|FOOD#PRICES|negative
+TFS#5|TFS#5:4|b'Look, the appetizers were really good.'|FOOD#QUALITY|positive
+TFS#5|TFS#5:5|b'The entree was also very good.'|FOOD#QUALITY|positive
+TFS#5|TFS#5:6|"b""Can't argue about that, but they are clearly over priced."""|FOOD#PRICES|negative
+TFS#5|TFS#5:7|b'What you are paying for is the environment and the name.'|AMBIENCE#GENERAL|neutral
+TFS#5|TFS#5:7|b'What you are paying for is the environment and the name.'|RESTAURANT#MISCELLANEOUS|neutral
+TFS#5|TFS#5:7|b'What you are paying for is the environment and the name.'|RESTAURANT#PRICES|negative
+TFS#5|TFS#5:8|b'Yes, the place is classy and beautiful, but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while.'|AMBIENCE#GENERAL|positive
+TFS#5|TFS#5:8|b'Yes, the place is classy and beautiful, but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while.'|RESTAURANT#PRICES|negative
+TFS#5|TFS#5:12|b'Which of course is not real Kobe but Wagyu beef.'|FOOD#QUALITY|negative
+TFS#5|TFS#5:13|b'Surprised that a place of this caliber would advertise it as Kobe.'|RESTAURANT#MISCELLANEOUS|negative
+TFS#5|TFS#5:16|b'Vanison was good but not amazing.'|FOOD#QUALITY|neutral
+TFS#5|TFS#5:17|b'Bison was quite excellent however.'|FOOD#QUALITY|positive
+TFS#5|TFS#5:18|b'Dessert: pure disaster.'|FOOD#QUALITY|negative
+TFS#5|TFS#5:19|b'Just not good at all.'|FOOD#QUALITY|negative
+TFS#5|TFS#5:20|b'Some Pineapple covered in a glaze of some kind and some pear tart thing Not impressive at all.'|FOOD#STYLE_OPTIONS|negative
+TFS#5|TFS#5:20|b'Some Pineapple covered in a glaze of some kind and some pear tart thing Not impressive at all.'|FOOD#QUALITY|negative
+TFS#5|TFS#5:21|b'I read reviews that called the restaurant too expensive and I thought to myself, but may be it is worth it.'|RESTAURANT#PRICES|negative
+TFS#5|TFS#5:21|b'I read reviews that called the restaurant too expensive and I thought to myself, but may be it is worth it.'|RESTAURANT#GENERAL|negative
+TFS#5|TFS#5:23|"b'The Four Seasons has history and it is a sort of landmark of New York City restaurants, but trust me, they will charge you through the nose just so that you can say ""I\'ve been to the four seasons restaurant"".'"|RESTAURANT#MISCELLANEOUS|neutral
+TFS#5|TFS#5:23|"b'The Four Seasons has history and it is a sort of landmark of New York City restaurants, but trust me, they will charge you through the nose just so that you can say ""I\'ve been to the four seasons restaurant"".'"|RESTAURANT#PRICES|negative
+TFS#5|TFS#5:24|b'I wanted to go there to see if it was worth it and sadly, curiousity got the best of me and I paid dearly for it.'|RESTAURANT#GENERAL|negative
+TFS#5|TFS#5:24|b'I wanted to go there to see if it was worth it and sadly, curiousity got the best of me and I paid dearly for it.'|RESTAURANT#PRICES|negative
+TFS#5|TFS#5:25|b'All in all, the food was great (except for the dessserts).'|FOOD#QUALITY|positive
+TFS#5|TFS#5:25|b'All in all, the food was great (except for the dessserts).'|FOOD#QUALITY|negative
+TFS#5|TFS#5:26|b'The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts.'|AMBIENCE#GENERAL|neutral
+TFS#5|TFS#5:26|b'The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts.'|RESTAURANT#MISCELLANEOUS|neutral
+TFS#5|TFS#5:27|b'If you are going for the food, it will not be worth it.'|FOOD#QUALITY|negative
+TFS#5|TFS#5:29|b'You would think they would make up for it with service, sadly, no.'|SERVICE#GENERAL|negative
+TFS#5|TFS#5:30|"b""Service was just ok, it is not what you'd expect for $500."""|SERVICE#GENERAL|negative
+TFS#5|TFS#5:30|"b""Service was just ok, it is not what you'd expect for $500."""|RESTAURANT#PRICES|negative
+CLF#3|CLF#3:0|b'Terrible Waste of money.. scammers'|RESTAURANT#GENERAL|negative
+CLF#3|CLF#3:0|b'Terrible Waste of money.. scammers'|RESTAURANT#PRICES|negative
+CLF#3|CLF#3:1|b'I agree that dining at Casa La Femme is like no other dining experience!'|RESTAURANT#GENERAL|negative
+CLF#3|CLF#3:3|b'I am actually offended to have spent so much money on such a bad experience.'|RESTAURANT#GENERAL|negative
+CLF#3|CLF#3:3|b'I am actually offended to have spent so much money on such a bad experience.'|RESTAURANT#PRICES|negative
+CLF#3|CLF#3:4|b'I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.'|RESTAURANT#GENERAL|negative
+CLF#3|CLF#3:4|b'I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.'|RESTAURANT#PRICES|negative
+CLF#3|CLF#3:6|b'Our visit their to say the least, was an unpleasant and costly experience!'|RESTAURANT#GENERAL|negative
+CLF#3|CLF#3:6|b'Our visit their to say the least, was an unpleasant and costly experience!'|RESTAURANT#PRICES|negative
+CLF#3|CLF#3:7|b'And even more so unpleasant because it was so costly for such an unpleasant experience.'|RESTAURANT#GENERAL|negative
+CLF#3|CLF#3:7|b'And even more so unpleasant because it was so costly for such an unpleasant experience.'|RESTAURANT#PRICES|negative
+CLF#3|CLF#3:8|b'We did arrive late for our reservation so I can not complain too much about the wait for a table.'|SERVICE#GENERAL|neutral
+CLF#3|CLF#3:9|b'Although we were told 10-15 minutes and it was more like 45 minutes.'|SERVICE#GENERAL|negative
+CLF#3|CLF#3:10|b'We were ushered to the bar to wait momentarily and upon arrival were so excited.'|RESTAURANT#GENERAL|positive
+CLF#3|CLF#3:11|b'The place is beautiful!'|AMBIENCE#GENERAL|positive
+CLF#3|CLF#3:12|b'The hostess was very pleasant.'|SERVICE#GENERAL|positive
+CLF#3|CLF#3:13|b'However, our $14 drinks were were horrible!'|DRINKS#QUALITY|negative
+CLF#3|CLF#3:13|b'However, our $14 drinks were were horrible!'|DRINKS#PRICES|negative
+CLF#3|CLF#3:14|b'Once we finally got a table, despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed!'|SERVICE#GENERAL|negative
+CLF#3|CLF#3:16|b'Our experience did not ever get any better.'|RESTAURANT#GENERAL|negative
+CLF#3|CLF#3:17|b'For each course we waited over 1/2 hour to 45 minutes and were never offered a drink.'|SERVICE#GENERAL|negative
+CLF#3|CLF#3:18|b'We also asked for Hooka six times and the waiter kept telling us one minute and never returning with the Hooka.'|SERVICE#GENERAL|negative
+CLF#3|CLF#3:19|b'After the 4th time i asked again and the waiter than said after our dinner.'|SERVICE#GENERAL|negative
+CLF#3|CLF#3:20|b'We asked for beverages and never received them.'|SERVICE#GENERAL|negative
+CLF#3|CLF#3:21|b'We asked for sides which the waiter than admitted that he forgot to put in that part of our order.'|SERVICE#GENERAL|negative
+CLF#3|CLF#3:22|b'My chicken was inedible as there were so many fatty lumps which i had to keep spitting out into my napkin.'|FOOD#QUALITY|negative
+CLF#3|CLF#3:23|b'I would not expect this for a $55 dinner.'|FOOD#QUALITY|negative
+CLF#3|CLF#3:23|b'I would not expect this for a $55 dinner.'|FOOD#PRICES|negative
+CLF#3|CLF#3:24|b'By the time we finished our dinner we still had not received one beverage NOR hooka!'|SERVICE#GENERAL|negative
+CLF#3|CLF#3:25|b'What we did do was waste 3 hours being trapped in a table waiting and waiting for food and drinks and hooka.. some of which we never received!'|SERVICE#GENERAL|negative
+CLF#3|CLF#3:26|b'The only beverage we did receive was water in dirty glasses!'|SERVICE#GENERAL|negative
+CLF#3|CLF#3:27|b'To top it all off.. the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant.'|SERVICE#GENERAL|negative
+CLF#3|CLF#3:27|b'To top it all off.. the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant.'|RESTAURANT#MISCELLANEOUS|negative
+CLF#3|CLF#3:28|b'By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!'|FOOD#QUALITY|negative
+CLF#3|CLF#3:28|b'By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!'|RESTAURANT#PRICES|negative
+CLF#3|CLF#3:28|b'By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!'|RESTAURANT#MISCELLANEOUS|negative
+CLF#3|CLF#3:29|b'If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible!'|FOOD#QUALITY|negative
+CLF#3|CLF#3:29|b'If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible!'|RESTAURANT#PRICES|negative
+CLF#3|CLF#3:30|b'I have never left a restaurant feeling as if i was abused, and wasted my hard earned money.'|RESTAURANT#GENERAL|negative
+CLF#3|CLF#3:30|b'I have never left a restaurant feeling as if i was abused, and wasted my hard earned money.'|RESTAURANT#PRICES|negative
+CLF#3|CLF#3:31|b'MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!'|RESTAURANT#GENERAL|negative
+CLF#3|CLF#3:31|b'MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!'|RESTAURANT#PRICES|negative
+CLF#3|CLF#3:31|b'MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!'|SERVICE#GENERAL|negative
+CLF#3|CLF#3:32|b'I wish I COULD be refunded!'|RESTAURANT#GENERAL|negative
+BFC#9|BFC#9:0|"b""Don't go with a larger group than 4! """|RESTAURANT#MISCELLANEOUS|negative
+BFC#9|BFC#9:4|b'At first we were a little taken aback, as this seemed to present a problem, although the restaurant looked fairly empty, but they hastily put the table together for us.'|SERVICE#GENERAL|positive
+BFC#9|BFC#9:5|b'The menu is fairly simple without much descriptions. '|FOOD#STYLE_OPTIONS|neutral
+BFC#9|BFC#9:6|b'There was no tap beer that evening, which was a disappointment. '|DRINKS#STYLE_OPTIONS|negative
+BFC#9|BFC#9:7|b'Not much of a selection of bottled beer either, we went with Brahma. '|DRINKS#STYLE_OPTIONS|negative
+BFC#9|BFC#9:8|b'The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). '|FOOD#QUALITY|positive
+BFC#9|BFC#9:8|b'The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). '|FOOD#STYLE_OPTIONS|negative
+BFC#9|BFC#9:8|b'The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). '|SERVICE#GENERAL|positive
+BFC#9|BFC#9:9|b'The lobster knuckles (special of the day) were ok, but pretty tasteless.'|FOOD#STYLE_OPTIONS|neutral
+BFC#9|BFC#9:9|b'The lobster knuckles (special of the day) were ok, but pretty tasteless.'|FOOD#QUALITY|negative
+BFC#9|BFC#9:10|"b'I believe there were 2 shrimp in the ""salt encrusted shrimp"" appetizer. '"|FOOD#STYLE_OPTIONS|negative
+BFC#9|BFC#9:14|"b'She replied ""well it would be more convenient for us if you ordered now, since you are a larger party, and it might get crowded."" '"|SERVICE#GENERAL|negative
+BFC#9|BFC#9:16|b'The food arrived in about 15 minutes. '|SERVICE#GENERAL|neutral
+BFC#9|BFC#9:17|b'I had the Thai style Fried Sea Bass...which was very good. '|FOOD#QUALITY|positive
+BFC#9|BFC#9:18|b'Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! '|FOOD#QUALITY|positive
+BFC#9|BFC#9:18|b'Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! '|FOOD#QUALITY|negative
+BFC#9|BFC#9:18|b'Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! '|FOOD#STYLE_OPTIONS|negative
+BFC#9|BFC#9:19|b'I heard the lobster roll was excellent. '|FOOD#QUALITY|positive
+BFC#9|BFC#9:20|b'They seemed to continue to rush us along, taking plates without asking if we were done (my sister still had her fork in hand). '|SERVICE#GENERAL|negative
+BFC#9|BFC#9:21|b'All in all the food was good - a little on the expensive side, but fresh. '|FOOD#QUALITY|positive
+BFC#9|BFC#9:21|b'All in all the food was good - a little on the expensive side, but fresh. '|FOOD#PRICES|negative
+BFC#9|BFC#9:22|"b'Service not the friendliest to our ""large party""! '"|SERVICE#GENERAL|negative
+BFC#9|BFC#9:23|b'Probably would not go back here.'|RESTAURANT#GENERAL|negative
+BG#5|BG#5:0|b'Great Indian food'|FOOD#QUALITY|positive
+BG#5|BG#5:2|"b""Food was amazing - I love Indian food and eat it quite regularly, but I can say this is one of the best I've had."""|FOOD#QUALITY|positive
+BG#5|BG#5:3|"b'Very ""normal Indian food"", but done really well.'"|FOOD#STYLE_OPTIONS|neutral
+BG#5|BG#5:3|"b'Very ""normal Indian food"", but done really well.'"|FOOD#QUALITY|positive
+BG#5|BG#5:4|"b""I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel."""|RESTAURANT#GENERAL|positive
+BG#5|BG#5:4|"b""I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel."""|RESTAURANT#PRICES|negative
+BG#5|BG#5:4|"b""I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel."""|FOOD#PRICES|negative
+BG#5|BG#5:4|"b""I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel."""|AMBIENCE#GENERAL|negative
+BG#5|BG#5:5|b'Also, waiters try to push more food on you, like suggest things as if they are complimentary when they actually cost $.'|SERVICE#GENERAL|negative
+BG#5|BG#5:6|"b""I don't appreciate places or people that try to drive up the bill without the patron's knowledge so that was a huge turnoff (more than the price)."""|SERVICE#GENERAL|negative
+BG#5|BG#5:6|"b""I don't appreciate places or people that try to drive up the bill without the patron's knowledge so that was a huge turnoff (more than the price)."""|RESTAURANT#PRICES|negative
+BG#5|BG#5:7|"b""But if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for Indian food"""|FOOD#QUALITY|positive
+BG#5|BG#5:7|"b""But if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for Indian food"""|RESTAURANT#PRICES|negative
+BG#8|BG#8:0|b'One of the BEST'|RESTAURANT#GENERAL|positive
+BG#8|BG#8:1|"b'Bukhara Grill, the tagline says it all.. ""INDIAN SPICE RAVE""'"|RESTAURANT#GENERAL|positive
+BG#8|BG#8:3|b'The lunch buffet is expensive but is deff worth it.'|FOOD#PRICES|negative
+BG#8|BG#8:3|b'The lunch buffet is expensive but is deff worth it.'|FOOD#QUALITY|positive
+BG#8|BG#8:5|b'We have gone for dinner only a few times but the same great quality and service is given.'|SERVICE#GENERAL|positive
+BG#8|BG#8:5|b'We have gone for dinner only a few times but the same great quality and service is given.'|FOOD#QUALITY|positive
+BG#8|BG#8:6|b'Bukhara is on my top 5 Indian places in NYC'|RESTAURANT#GENERAL|positive
+DBG#2|DBG#2:0|b'Wretched and retching'|RESTAURANT#GENERAL|negative
+DBG#2|DBG#2:3|b'I have never been so disgusted by both food an service.'|FOOD#QUALITY|negative
+DBG#2|DBG#2:3|b'I have never been so disgusted by both food an service.'|SERVICE#GENERAL|negative
+DBG#2|DBG#2:4|"b""For starters they delivered us someone else's order."""|SERVICE#GENERAL|negative
+DBG#2|DBG#2:6|"b""However, once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair, (sometimes you have to settle when it's your only option), I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting, slimy, clearly bad piece of fish skin."""|FOOD#QUALITY|negative
+DBG#2|DBG#2:6|"b""However, once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair, (sometimes you have to settle when it's your only option), I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting, slimy, clearly bad piece of fish skin."""|FOOD#QUALITY|negative
+DBG#2|DBG#2:8|b'My main concern was the sanity of the food that was being sent out to myself and others, but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation.'|FOOD#QUALITY|negative
+DBG#2|DBG#2:8|b'My main concern was the sanity of the food that was being sent out to myself and others, but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation.'|SERVICE#GENERAL|negative
+DBG#2|DBG#2:9|b'None was made so i hung up.'|SERVICE#GENERAL|negative
+DBG#2|DBG#2:10|b'Less than three minutes passed before I found myself doubled over the toilet.'|FOOD#QUALITY|negative
+DBG#2|DBG#2:11|b'My girlfriend, being slightly more aggressive, and having been equally disgusted causing her to throw out the remainder of her barely eaten meal, called back only to be informed that I was probably wrong and that it was most likely an oyster, and that we were also blacklisted from their restaurant.'|FOOD#QUALITY|negative
+DBG#2|DBG#2:11|b'My girlfriend, being slightly more aggressive, and having been equally disgusted causing her to throw out the remainder of her barely eaten meal, called back only to be informed that I was probably wrong and that it was most likely an oyster, and that we were also blacklisted from their restaurant.'|SERVICE#GENERAL|negative
+DBG#2|DBG#2:14|"b""It wasn't as if this restaurant had any major bragging points before hand, but now it's simply repulsive."""|RESTAURANT#GENERAL|negative
+DBG#2|DBG#2:15|b'Eat at your own risk.'|FOOD#QUALITY|negative
+CLF#7|CLF#7:0|b'Gorgeous place ideal for a romantic dinner'|AMBIENCE#GENERAL|positive
+CLF#7|CLF#7:0|b'Gorgeous place ideal for a romantic dinner'|RESTAURANT#MISCELLANEOUS|positive
+CLF#7|CLF#7:2|b'I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot.'|FOOD#QUALITY|positive
+CLF#7|CLF#7:2|b'I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot.'|AMBIENCE#GENERAL|positive
+CLF#7|CLF#7:3|b'The service was spectacular as the waiter knew everything about the menu and his recommendations were amazing!'|SERVICE#GENERAL|positive
+CLF#7|CLF#7:3|b'The service was spectacular as the waiter knew everything about the menu and his recommendations were amazing!'|SERVICE#GENERAL|positive
+CLF#7|CLF#7:4|b'I completely recommend Casa La Femme for any special occasion and to REALLY impress your date.'|RESTAURANT#MISCELLANEOUS|positive
+DBG#7|DBG#7:0|b'More Williamsburg Garbage'|RESTAURANT#GENERAL|negative
+DBG#7|DBG#7:3|b'The dishes came out around 5 minutes apart.'|SERVICE#GENERAL|negative
+DBG#7|DBG#7:4|"b""The bibimbap was average, but the stone bowl wasn't even close to sizzling."""|FOOD#QUALITY|neutral
+DBG#7|DBG#7:4|"b""The bibimbap was average, but the stone bowl wasn't even close to sizzling."""|FOOD#QUALITY|negative
+DBG#7|DBG#7:5|b'Too bad I had paid an extra $2 for the stone bowl.'|FOOD#PRICES|negative
+DBG#7|DBG#7:6|b'The nakgi-bokum was horrible.'|FOOD#QUALITY|negative
+DBG#7|DBG#7:7|"b""Easily the worst stir-fried squid I've ever tasted."""|FOOD#QUALITY|negative
+DBG#7|DBG#7:8|b'The sauce tasted more like Chinese fast food than decent Korean.'|FOOD#QUALITY|negative
+DBG#7|DBG#7:9|b'The side dishes were passable, and I did get a refill upon request.'|FOOD#QUALITY|neutral
+DBG#7|DBG#7:9|b'The side dishes were passable, and I did get a refill upon request.'|FOOD#STYLE_OPTIONS|positive
+DBG#7|DBG#7:10|b'The real problem I had with this place was the complete lack of service.'|SERVICE#GENERAL|negative
+DBG#7|DBG#7:12|b'She just nodded and walked off.'|SERVICE#GENERAL|negative
+DBG#7|DBG#7:14|b'As to my comment about the food, no apology or acknowledgment was made.'|SERVICE#GENERAL|negative
+DBG#7|DBG#7:15|b'My wife had barely touched that mess of a dish.'|FOOD#QUALITY|negative
+DBG#7|DBG#7:16|b'We were charged full price.'|SERVICE#GENERAL|negative
+ADLT#9|ADLT#9:0|b'Lives up to the hype'|RESTAURANT#GENERAL|positive
+ADLT#9|ADLT#9:2|"b""We've tried before but it always packed and doesn't take reservations."""|RESTAURANT#MISCELLANEOUS|neutral
+ADLT#9|ADLT#9:3|b'It was well worth the wait.'|RESTAURANT#GENERAL|positive
+ADLT#9|ADLT#9:4|b'The wife had the risotto which was amazing.'|FOOD#QUALITY|positive
+ADLT#9|ADLT#9:5|"b""It doesn't look appetizing as it's covered in squid ink and it turns your lips and teeth black, but the taste was phenomenal."""|FOOD#STYLE_OPTIONS|negative
+ADLT#9|ADLT#9:5|"b""It doesn't look appetizing as it's covered in squid ink and it turns your lips and teeth black, but the taste was phenomenal."""|FOOD#QUALITY|positive
+ADLT#9|ADLT#9:6|b'The farro salad and the mashed yukon potatoes were also extremely tasty.'|FOOD#QUALITY|positive
+ADLT#9|ADLT#9:6|b'The farro salad and the mashed yukon potatoes were also extremely tasty.'|FOOD#QUALITY|positive
+EVPK#4|EVPK#4:0|b'i love margherita pizza \xe2\x80\x93 i looove east village pizza'|RESTAURANT#GENERAL|positive
+EVPK#4|EVPK#4:0|b'i love margherita pizza \xe2\x80\x93 i looove east village pizza'|FOOD#QUALITY|positive
+EVPK#4|EVPK#4:1|b'Love this place, every time we are in the city this is one of the places we always go.'|RESTAURANT#GENERAL|positive
+EVPK#4|EVPK#4:2|b'A quintessential slice of NYC pizza.'|FOOD#QUALITY|neutral
+EVPK#4|EVPK#4:3|b'The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components.'|FOOD#QUALITY|positive
+EVPK#4|EVPK#4:3|b'The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components.'|FOOD#QUALITY|positive
+EVPK#4|EVPK#4:3|b'The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components.'|FOOD#QUALITY|positive
+EVPK#4|EVPK#4:4|b'Personally I like the margherita pizza better, but they are all good.'|FOOD#QUALITY|positive
+EVPK#4|EVPK#4:4|b'Personally I like the margherita pizza better, but they are all good.'|FOOD#QUALITY|positive
+Z#6|Z#6:0|b'Possibly the Most Romantic Restaurant in the City'|AMBIENCE#GENERAL|positive
+Z#6|Z#6:1|b'This is undoubtedly my favorite modern Japanese brasserie (that don\xe2\x80\x99t serve sushi), and in my opinion, one of the most romantic restaurants in the city!'|RESTAURANT#GENERAL|positive
+Z#6|Z#6:1|b'This is undoubtedly my favorite modern Japanese brasserie (that don\xe2\x80\x99t serve sushi), and in my opinion, one of the most romantic restaurants in the city!'|AMBIENCE#GENERAL|positive
+Z#6|Z#6:2|b'Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d\xc3\xa9cor will make you feel like you\xe2\x80\x99re no longer in the city.'|LOCATION#GENERAL|neutral
+Z#6|Z#6:2|b'Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d\xc3\xa9cor will make you feel like you\xe2\x80\x99re no longer in the city.'|AMBIENCE#GENERAL|positive
+Z#6|Z#6:2|b'Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d\xc3\xa9cor will make you feel like you\xe2\x80\x99re no longer in the city.'|AMBIENCE#GENERAL|positive
+Z#6|Z#6:3|b'If you\xe2\x80\x99re planning to come here, make sure that your date is someone whom you really like since you\xe2\x80\x99ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).'|AMBIENCE#GENERAL|positive
+Z#6|Z#6:3|b'If you\xe2\x80\x99re planning to come here, make sure that your date is someone whom you really like since you\xe2\x80\x99ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).'|AMBIENCE#GENERAL|positive
+Z#6|Z#6:4|b'It\xe2\x80\x99s just you and your date and an occasional cute \xe2\x80\x98excuse me\xe2\x80\x99 before the waiter opens the little curtain to your booth!'|AMBIENCE#GENERAL|positive
+Z#6|Z#6:4|b'It\xe2\x80\x99s just you and your date and an occasional cute \xe2\x80\x98excuse me\xe2\x80\x99 before the waiter opens the little curtain to your booth!'|SERVICE#GENERAL|positive
+Z#6|Z#6:5|b'My party had the BBE $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!'|FOOD#PRICES|positive
+Z#6|Z#6:5|b'My party had the BBE $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!'|FOOD#STYLE_OPTIONS|positive
+Z#6|Z#6:7|b'We started off with a delightful sashimi amuse bouche.'|FOOD#QUALITY|positive
+Z#6|Z#6:9|b'I picked the Grilled Black Cod as my entree, which I absolutely devoured while someone commented that the Grilled Salmon dish was better.'|FOOD#QUALITY|positive
+Z#6|Z#6:9|b'I picked the Grilled Black Cod as my entree, which I absolutely devoured while someone commented that the Grilled Salmon dish was better.'|FOOD#QUALITY|positive
+Z#6|Z#6:10|b'The entrees were served with miso soup and rice.'|FOOD#STYLE_OPTIONS|neutral
+Z#6|Z#6:11|b'The sake\xe2\x80\x99s complimented the courses very well and is successfully easing me into the sake world.'|DRINKS#QUALITY|positive
+Z#6|Z#6:12|b'For desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.'|FOOD#QUALITY|neutral
+Z#6|Z#6:12|b'For desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.'|FOOD#QUALITY|positive
+Z#6|Z#6:13|b'Maybe it was the great company (I had friends visiting from Philly \xe2\x80\x93 yes, it was not a date this time) or the super reasonable price point, but I just can\xe2\x80\x99t say enough good things about this brasserie.'|RESTAURANT#GENERAL|positive
+Z#6|Z#6:13|b'Maybe it was the great company (I had friends visiting from Philly \xe2\x80\x93 yes, it was not a date this time) or the super reasonable price point, but I just can\xe2\x80\x99t say enough good things about this brasserie.'|RESTAURANT#PRICES|positive
+Z#6|Z#6:14|b'I don\xe2\x80\x99t usually visit the same establishment more than once, what more twice, but I\xe2\x80\x99ll come to Zenkichi anytime for a quiet, unhurried and memorable dinner.'|RESTAURANT#GENERAL|positive
+Z#6|Z#6:14|b'I don\xe2\x80\x99t usually visit the same establishment more than once, what more twice, but I\xe2\x80\x99ll come to Zenkichi anytime for a quiet, unhurried and memorable dinner.'|AMBIENCE#GENERAL|positive
+CLF#6|CLF#6:0|b'Terrible would be a compliment!'|RESTAURANT#GENERAL|negative
+CLF#6|CLF#6:1|b'The service leaves much to be desired, from feeling like you are rushed the place your order, to being ignored the rest of the night.'|SERVICE#GENERAL|negative
+CLF#6|CLF#6:3|b'We paid a fixed pricce but got nothing!!'|SERVICE#GENERAL|negative
+CLF#6|CLF#6:4|b'We never ate because by close to 2 in the monring we were not served and were too upset ad tired to start eating.'|SERVICE#GENERAL|negative
+CLF#6|CLF#6:5|b'They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!'|SERVICE#GENERAL|negative
+CLF#6|CLF#6:5|b'They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!'|DRINKS#PRICES|negative
+CLF#6|CLF#6:5|b'They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!'|FOOD#PRICES|negative
+CLF#6|CLF#6:5|b'They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!'|SERVICE#GENERAL|negative
+CLF#6|CLF#6:6|b'Stay away'|RESTAURANT#GENERAL|negative
+DBG#6|DBG#6:0|b'Great Shabu Shabu'|FOOD#QUALITY|positive
+DBG#6|DBG#6:2|b'I love it.'|RESTAURANT#GENERAL|positive
+DBG#6|DBG#6:4|"b""I tried a couple other dishes but wasn't too impressed."""|FOOD#QUALITY|neutral
+DBG#6|DBG#6:5|"b""But for the Shabu Shabu, you won't find much better in NY."""|FOOD#QUALITY|positive
+DBG#6|DBG#6:7|b'The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.'|FOOD#QUALITY|positive
+DBG#6|DBG#6:7|b'The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.'|FOOD#QUALITY|positive
+DBG#6|DBG#6:7|b'The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.'|SERVICE#GENERAL|positive
+DBG#6|DBG#6:7|b'The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.'|FOOD#STYLE_OPTIONS|positive
+DBG#6|DBG#6:7|b'The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.'|FOOD#PRICES|positive
+DBG#6|DBG#6:7|b'The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.'|FOOD#PRICES|positive
+DBG#1|DBG#1:0|b'Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.'|FOOD#QUALITY|positive
+DBG#1|DBG#1:0|b'Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.'|FOOD#QUALITY|positive
+DBG#1|DBG#1:0|b'Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.'|FOOD#QUALITY|positive
+BHD#1|BHD#1:0|b'The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun.'|FOOD#QUALITY|positive
+BHD#1|BHD#1:0|b'The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun.'|FOOD#QUALITY|positive
+BHD#1|BHD#1:0|b'The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun.'|FOOD#QUALITY|positive
+TR#5|TR#5:0|b'Restaurant with a view'|LOCATION#GENERAL|neutral
+TR#5|TR#5:2|b'The food tasted very good.'|FOOD#QUALITY|positive
+TR#5|TR#5:3|b'The family seafood entree was very good.'|FOOD#QUALITY|positive
+TR#5|TR#5:4|b'The main entree was also very good.'|FOOD#QUALITY|positive
+TR#5|TR#5:6|b'Price is high but the food is good, so I would come back again.'|FOOD#QUALITY|positive
+TR#5|TR#5:6|b'Price is high but the food is good, so I would come back again.'|FOOD#PRICES|negative
+TR#5|TR#5:6|b'Price is high but the food is good, so I would come back again.'|RESTAURANT#GENERAL|positive
+Z#7|Z#7:0|"b""This place doesn't make any sense"""|RESTAURANT#GENERAL|negative
+Z#7|Z#7:1|"b""Just want to warn you all - don't waste your time and money."""|RESTAURANT#GENERAL|negative
+Z#7|Z#7:2|b'This place has totally weird decor, stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional...'|AMBIENCE#GENERAL|negative
+Z#7|Z#7:2|b'This place has totally weird decor, stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional...'|AMBIENCE#GENERAL|negative
+Z#7|Z#7:3|b'This place is not inviting and the food is totally weird.'|AMBIENCE#GENERAL|negative
+Z#7|Z#7:3|b'This place is not inviting and the food is totally weird.'|FOOD#QUALITY|negative
+Z#7|Z#7:4|"b""The concept of japanese tapas is newly created and clearly doesn't work."""|FOOD#STYLE_OPTIONS|negative
+Z#7|Z#7:5|b'The food they serve is not comforting, not appetizing and uncooked.'|FOOD#QUALITY|negative
+Z#10|Z#10:0|b'Good Food'|FOOD#QUALITY|positive
+Z#10|Z#10:2|"b""The food was great and tasty, but the sitting space was too small, I don't like being cramp in a corner."""|FOOD#QUALITY|positive
+Z#10|Z#10:2|"b""The food was great and tasty, but the sitting space was too small, I don't like being cramp in a corner."""|AMBIENCE#GENERAL|negative
+Z#10|Z#10:3|b'Over all it was a very nice romantic place .'|RESTAURANT#GENERAL|positive
+Z#10|Z#10:3|b'Over all it was a very nice romantic place .'|AMBIENCE#GENERAL|positive
+P#7|P#7:0|b'Loved it'|RESTAURANT#GENERAL|positive
+P#7|P#7:1|b'A coworker and I tried Pacifico after work a few Fridays and loved it.'|RESTAURANT#GENERAL|positive
+P#7|P#7:2|b'The atmosphere was great.'|AMBIENCE#GENERAL|positive
+P#7|P#7:3|"b""The food we ordered was excellent, although I wouldn't say the margaritas were anything to write home about."""|FOOD#QUALITY|positive
+P#7|P#7:3|"b""The food we ordered was excellent, although I wouldn't say the margaritas were anything to write home about."""|DRINKS#QUALITY|neutral
+P#7|P#7:4|"b""Our waitress wasn't mean, but not especially warm or attentive either."""|SERVICE#GENERAL|neutral
+P#7|P#7:5|b'I must say I am surprised by the bad reviews of the restaurant earlier in the year, though.'|RESTAURANT#GENERAL|positive
+P#7|P#7:7|"b""Regardless, we'll be back and can't wait to visit in the summer to take advantage of the patio."""|AMBIENCE#GENERAL|positive
+P#7|P#7:7|"b""Regardless, we'll be back and can't wait to visit in the summer to take advantage of the patio."""|RESTAURANT#GENERAL|positive
+FF#4|FF#4:0|b'Dumbfoundingly Poor'|RESTAURANT#GENERAL|negative
+FF#4|FF#4:1|b'This was, from start to finish, a mind-bogglingly uncomfortable experience.'|RESTAURANT#GENERAL|negative
+FF#4|FF#4:2|b'Lexicographers take note: a new and fascinating definition of rudeness is alive and flourishing right here in Brooklyn.'|SERVICE#GENERAL|negative
+FF#4|FF#4:3|b'The servers at Flatbush Farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention.'|SERVICE#GENERAL|negative
+FF#4|FF#4:4|b'Polite acknowledgement is out;'|SERVICE#GENERAL|negative
+FF#4|FF#4:5|b'supercilious scorn is in.'|SERVICE#GENERAL|negative
+FF#4|FF#4:6|b'And how many times can you pick up the same perfectly aligned set of napkins, inspect them vapidly and plonk them down in exactly the same place instead of venturing a glance at people who are there to help you make the rent?'|SERVICE#GENERAL|negative
+FF#4|FF#4:7|b'A different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious).'|SERVICE#GENERAL|negative
+FF#4|FF#4:7|b'A different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious).'|FOOD#QUALITY|positive
+FF#4|FF#4:8|"b""Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest."""|FOOD#QUALITY|positive
+FF#4|FF#4:8|"b""Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest."""|SERVICE#GENERAL|negative
+FF#4|FF#4:9|b'The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)'|AMBIENCE#GENERAL|positive
+FF#4|FF#4:9|b'The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)'|AMBIENCE#GENERAL|positive
+FF#4|FF#4:9|b'The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)'|DRINKS#STYLE_OPTIONS|positive
+FF#4|FF#4:9|b'The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)'|SERVICE#GENERAL|negative
+FF#4|FF#4:10|"b""At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture."""|RESTAURANT#PRICES|negative
+FF#4|FF#4:10|"b""At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture."""|RESTAURANT#GENERAL|negative
+FF#4|FF#4:10|"b""At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture."""|SERVICE#GENERAL|negative
+FF#4|FF#4:11|"b""On that scale, it's a world-beater."""|RESTAURANT#GENERAL|negative
+FF#3|FF#3:0|b'How is this palce still open?'|RESTAURANT#GENERAL|negative
+FF#3|FF#3:1|"b""I honestly don't even know where to begin."""|RESTAURANT#GENERAL|negative
+FF#3|FF#3:3|b'We arrived and were seated immediately, which made us both happy.'|SERVICE#GENERAL|positive
+FF#3|FF#3:5|b'Everything was going good until we got our meals.'|RESTAURANT#GENERAL|positive
+FF#3|FF#3:5|b'Everything was going good until we got our meals.'|FOOD#QUALITY|negative
+FF#3|FF#3:6|b'I took one look at the chicken and I was appalled.'|FOOD#STYLE_OPTIONS|negative
+FF#3|FF#3:7|b'It was served with skin, over a bed of extremely undercooked spinach and mashed potatoes.'|FOOD#STYLE_OPTIONS|negative
+FF#3|FF#3:7|b'It was served with skin, over a bed of extremely undercooked spinach and mashed potatoes.'|FOOD#QUALITY|negative
+FF#3|FF#3:9|b'I took one bite from the $24 salmon, and I have never, in the 17 years I have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in Flatbush Farms.'|FOOD#QUALITY|negative
+FF#3|FF#3:9|b'I took one bite from the $24 salmon, and I have never, in the 17 years I have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in Flatbush Farms.'|FOOD#PRICES|negative
+FF#3|FF#3:10|"b""At this point, the waitress comes over and asks us if everything was okay, I was literally so shocked that I was speechless and didn't say anything, and guess what, the waitress WALKED away."""|SERVICE#GENERAL|negative
+FF#3|FF#3:11|b'So, I switch with my boyfriend again to see if maybe I could stomach the meat and spinach again, but the spinach was so undercooked that I just could not bite through it.'|FOOD#QUALITY|negative
+FF#3|FF#3:12|"b""I couldn't even enjoy the mashed potatoes because it was hidden completely under the chicken and spinach."""|FOOD#STYLE_OPTIONS|negative
+FF#3|FF#3:14|b'So I decide to report back to the waitress because it was completely inedible.'|FOOD#QUALITY|negative
+FF#3|FF#3:15|"b'Guess what, I waited for TWENTY minutes before she came over and when she finally did, she says, ""oh well, I wish you would have said something earlier"" No apology, nothing.'"|SERVICE#GENERAL|negative
+FF#3|FF#3:16|b'After that she simply took our plates, walked away, came back another TWENTY minutes later with the bill and the chicken on it!!!!!!!!!!!!'|SERVICE#GENERAL|negative
+FF#3|FF#3:17|b'No desert menu, no apology, nothing!!!!!!'|SERVICE#GENERAL|negative
+FF#3|FF#3:19|"b""This is where it really really gets bad: the manager said, there is absolutely nothing we can do, it's a matter of taste that she didn't like it, and I cannot comp it."""|SERVICE#GENERAL|negative
+FF#3|FF#3:20|b'Again, no apology, no is there anything else I can get you, no can I get you a drink to make up for it, nothing!!!!'|SERVICE#GENERAL|negative
+FF#3|FF#3:22|b'The level of rudeness was preposterous.'|SERVICE#GENERAL|negative
+FF#3|FF#3:23|b'The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out.'|SERVICE#GENERAL|negative
+FF#3|FF#3:23|b'The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out.'|DRINKS#QUALITY|positive
+FF#3|FF#3:23|b'The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out.'|FOOD#QUALITY|positive
+FF#3|FF#3:24|b'I HAVE NEVER EVER HAD SUCH AN UNPLEASANT EXPERIENCE.'|RESTAURANT#GENERAL|negative
+FF#3|FF#3:25|b'THIS STAFF SHOULD BE FIRED.'|SERVICE#GENERAL|negative
+EVPK#9|EVPK#9:0|b'cirspy crust margherita pizza'|FOOD#QUALITY|positive
+EVPK#9|EVPK#9:2|b'it was really good pizza.'|FOOD#QUALITY|positive
+EVPK#9|EVPK#9:3|b'the crust was imazingly cooked well and pizza was fully loaded:):):)'|FOOD#QUALITY|positive
+EVPK#9|EVPK#9:3|b'the crust was imazingly cooked well and pizza was fully loaded:):):)'|FOOD#STYLE_OPTIONS|positive
+EVPK#9|EVPK#9:4|b'you know what i mean all the positives things happening there made mw write this review.'|RESTAURANT#GENERAL|positive
+CLF#4|CLF#4:0|b'Single Worst Restaurant in Manhattan'|RESTAURANT#GENERAL|negative
+CLF#4|CLF#4:1|"b""I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty."""|AMBIENCE#GENERAL|positive
+CLF#4|CLF#4:1|"b""I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty."""|FOOD#QUALITY|positive
+CLF#4|CLF#4:1|"b""I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty."""|FOOD#QUALITY|positive
+CLF#4|CLF#4:1|"b""I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty."""|FOOD#QUALITY|positive
+CLF#4|CLF#4:3|b'If I could give 0 stars I would do so for this place.'|RESTAURANT#GENERAL|negative
+CLF#4|CLF#4:5|b'The reason there are 4 different results on citysearch for the same place is because they keep trying to start a new thread so they can stock it with positive reviews.'|RESTAURANT#MISCELLANEOUS|negative
+CLF#4|CLF#4:6|"b""Well...they can run but they can't hide."""|RESTAURANT#GENERAL|negative
+CLF#4|CLF#4:10|b'This place...god where do i begin.'|RESTAURANT#GENERAL|negative
+CLF#4|CLF#4:11|"b""It is quite a spectacular scene i'll give them that."""|AMBIENCE#GENERAL|positive
+CLF#4|CLF#4:12|"b""The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!"""|AMBIENCE#GENERAL|neutral
+CLF#4|CLF#4:12|"b""The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!"""|FOOD#QUALITY|negative
+CLF#4|CLF#4:12|"b""The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!"""|FOOD#PRICES|negative
+CLF#4|CLF#4:12|"b""The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!"""|SERVICE#GENERAL|negative
+CLF#4|CLF#4:13|b'How this place survives the competitive west village market in this economy, or any other for that matter, is beyond me.'|RESTAURANT#GENERAL|negative
+BHD#4|BHD#4:0|b'Great Hot Dogs!'|FOOD#QUALITY|positive
+BHD#4|BHD#4:2|"b""Though it's been crowded most times I've gone here, Bark always delivers on their food."""|FOOD#QUALITY|positive
+BHD#4|BHD#4:2|"b""Though it's been crowded most times I've gone here, Bark always delivers on their food."""|RESTAURANT#MISCELLANEOUS|neutral
+BHD#4|BHD#4:3|"b""The hot dogs are top notch, and they're Slamwich is amazing!"""|FOOD#QUALITY|positive
+BHD#4|BHD#4:3|"b""The hot dogs are top notch, and they're Slamwich is amazing!"""|FOOD#QUALITY|positive
+BHD#4|BHD#4:4|b'Going to Bark is always worth the train ride, and will make your tongue and belly very happy!'|RESTAURANT#GENERAL|positive
+BHD#4|BHD#4:4|b'Going to Bark is always worth the train ride, and will make your tongue and belly very happy!'|FOOD#QUALITY|positive
+BHD#4|BHD#4:5|b'Only complaint is the pricing--I believe it would be more reasonable to pay a dollar less on each item listed on the menu.'|FOOD#PRICES|negative
+BHD#4|BHD#4:6|b'But nonetheless--great spot, great food.'|RESTAURANT#GENERAL|positive
+BHD#4|BHD#4:6|b'But nonetheless--great spot, great food.'|FOOD#QUALITY|positive
+BFC#7|BFC#7:0|"b""Fabulous food - if the front of house staff don't put you off \xe2\x80\x93 """|FOOD#QUALITY|positive
+BFC#7|BFC#7:0|"b""Fabulous food - if the front of house staff don't put you off \xe2\x80\x93 """|SERVICE#GENERAL|negative
+BFC#7|BFC#7:2|"b""It's a little out of our price range for dining there except on special occasions, but we've eaten there 6 times in the last 2 years. """|RESTAURANT#PRICES|negative
+BFC#7|BFC#7:3|"b""Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. """|SERVICE#GENERAL|positive
+BFC#7|BFC#7:3|"b""Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. """|SERVICE#GENERAL|negative
+BFC#7|BFC#7:3|"b""Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. """|FOOD#QUALITY|positive
+BFC#7|BFC#7:4|"b""As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!"""|RESTAURANT#MISCELLANEOUS|negative
+BFC#7|BFC#7:4|"b""As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!"""|SERVICE#GENERAL|negative
+BFC#7|BFC#7:4|"b""As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!"""|SERVICE#GENERAL|negative
+BFC#7|BFC#7:5|b'The frizzy retro girl (with winged/ Dame Edna glasses) will yell at you if you try to order a drink. '|SERVICE#GENERAL|negative
+BFC#7|BFC#7:6|"b'I was almost amused by the fact that she was turning away customers at 9pm on a Friday night because she ""had a BBQ to go to"" that night - WTF??'"|SERVICE#GENERAL|negative
+BFC#7|BFC#7:7|"b""I'd be horrified if my staff were turning away customers so early and so rudely!"""|SERVICE#GENERAL|negative
+BFC#7|BFC#7:8|"b'There\'s another girl who I can\'t describe, she is about 5\'6"" with brown hair, who eavesdrops on your conversation and chimes in - except she only hears the last part of what you said, so her uninvited opinions are often out of context and nothing to do with what you\'re *really* talking about. '"|SERVICE#GENERAL|negative
+BFC#7|BFC#7:9|"b""I'm a friendly person, so I wouldn't mind had she not been so nasty and gotten so personal. """|SERVICE#GENERAL|negative
+BFC#7|BFC#7:10|"b""Again, I'd be super upset if that were my employee."""|SERVICE#GENERAL|negative
+BFC#7|BFC#7:11|b'Considering you will spend at least $60 a head, I expect better service. '|SERVICE#GENERAL|negative
+BFC#7|BFC#7:11|b'Considering you will spend at least $60 a head, I expect better service. '|RESTAURANT#PRICES|negative
+BFC#7|BFC#7:12|"b""So, if you're walking by and thinking about dining, you might want to see who's going to be seating you first..."""|SERVICE#GENERAL|negative
+ADLT#6|ADLT#6:0|"b'Maitre-D-""Eat and get out""'"|SERVICE#GENERAL|negative
+ADLT#6|ADLT#6:2|b'The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant.'|FOOD#QUALITY|positive
+ADLT#6|ADLT#6:2|b'The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant.'|SERVICE#GENERAL|positive
+ADLT#6|ADLT#6:2|b'The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant.'|SERVICE#GENERAL|negative
+ADLT#6|ADLT#6:3|"b""While finishing our meals which included a high-end bottle of wine, our son's fiance joined us for a glass of wine and dessert."""|DRINKS#QUALITY|positive
+ADLT#6|ADLT#6:4|b'This guy refused to seat her and she left, followed shortly by the four of us, but not before I told him that in my 40 years of world travel, including Paris, that I had never seen such a display of bad behavior by a frontman in a restaurant.'|SERVICE#GENERAL|negative
+ADLT#6|ADLT#6:5|b'His response was smug, arrogant, and condescending, totally consistent with his deportment on display all evening.'|SERVICE#GENERAL|negative
+ADLT#6|ADLT#6:6|"b'A word to the wise: you can\'t dine here and disturb the maitre-D\'s sense of "" table turnover"", as whacked as it is, or else.'"|SERVICE#GENERAL|negative
+ADLT#6|ADLT#6:7|b'If you go here, do it on his off-night.'|SERVICE#GENERAL|negative
+NP#9|NP#9:0|b'Best meal in a long time!'|FOOD#QUALITY|positive
+NP#9|NP#9:1|b'Mussles and calamari were superb Saturday evening.'|FOOD#QUALITY|positive
+NP#9|NP#9:1|b'Mussles and calamari were superb Saturday evening.'|FOOD#QUALITY|positive
+NP#9|NP#9:2|b'I had the Lamb special which was perfect.'|FOOD#QUALITY|positive
+NP#9|NP#9:3|b'My father had the flank steak which was very good, and my mother had the swordfish.'|FOOD#QUALITY|positive
+TFS#2|TFS#2:0|b'The Four Seasons restaurant is a great experience.'|RESTAURANT#GENERAL|positive
+TFS#2|TFS#2:1|b'The food is great and the environment is even better.'|FOOD#QUALITY|positive
+TFS#2|TFS#2:1|b'The food is great and the environment is even better.'|AMBIENCE#GENERAL|positive
+TFS#2|TFS#2:2|b'Everyone must come here at least once.'|RESTAURANT#GENERAL|positive
+TFS#2|TFS#2:3|b'Highly recommend it!'|RESTAURANT#GENERAL|positive
+BHD#8|BHD#8:0|b'Taking Hot Dogs to the next level'|FOOD#QUALITY|positive
+BHD#8|BHD#8:1|"b""At first glance this place seems a bit pricey for a hot dog joint, but at Bark you don't just get your average hot dog."""|RESTAURANT#PRICES|negative
+BHD#8|BHD#8:1|"b""At first glance this place seems a bit pricey for a hot dog joint, but at Bark you don't just get your average hot dog."""|FOOD#QUALITY|positive
+BHD#8|BHD#8:2|b'Here the hot dog is elevated to the level of a real entree with numerous variations available.'|FOOD#QUALITY|positive
+BHD#8|BHD#8:2|b'Here the hot dog is elevated to the level of a real entree with numerous variations available.'|FOOD#STYLE_OPTIONS|positive
+P#3|P#3:0|b'Great Atmosphere'|AMBIENCE#GENERAL|positive
+P#3|P#3:2|b'I highly recommend the fish tacos, everything else was ok.'|FOOD#QUALITY|positive
+P#3|P#3:2|b'I highly recommend the fish tacos, everything else was ok.'|FOOD#QUALITY|neutral
+P#3|P#3:3|b'Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night.'|AMBIENCE#GENERAL|positive
+P#3|P#3:3|b'Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night.'|AMBIENCE#GENERAL|positive
+P#3|P#3:3|b'Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night.'|AMBIENCE#GENERAL|negative
+CLF#8|CLF#8:0|b'Poor service and management'|SERVICE#GENERAL|negative
+CLF#8|CLF#8:0|b'Poor service and management'|SERVICE#GENERAL|negative
+CLF#8|CLF#8:1|b'Don\xe2\x80\x99t go to this place!'|RESTAURANT#GENERAL|negative
+CLF#8|CLF#8:2|b'Had an awful experience at Casa la Femme on a Saturday dinner.'|RESTAURANT#GENERAL|negative
+CLF#8|CLF#8:3|b'Appetizers took nearly an hour.'|SERVICE#GENERAL|negative
+CLF#8|CLF#8:4|b'When the main course finally arrived (another 45mins) half of our order was missing.'|SERVICE#GENERAL|negative
+CLF#8|CLF#8:5|b'Never got an explanation as to what was going on.'|SERVICE#GENERAL|negative
+CLF#8|CLF#8:6|b'The manager was rude and handled the situation extremely poorly.'|SERVICE#GENERAL|negative
+CLF#8|CLF#8:7|b'When we threatened to leave, we were offered a meager discount even though half the order was missing.'|SERVICE#GENERAL|negative
+CLF#8|CLF#8:8|b'On the way out, we heard of other guests complaining about similar issues.'|SERVICE#GENERAL|negative
+CLF#8|CLF#8:9|b'Can\xe2\x80\x99t believe how an expensive NYC restaurant can be so disrespectful to its clients.'|RESTAURANT#PRICES|negative
+CLF#8|CLF#8:9|b'Can\xe2\x80\x99t believe how an expensive NYC restaurant can be so disrespectful to its clients.'|SERVICE#GENERAL|negative
+ADLT#11|ADLT#11:0|b'What a hassle!'|RESTAURANT#GENERAL|negative
+ADLT#11|ADLT#11:1|b'The food is very good, but not outstanding.'|FOOD#QUALITY|neutral
+ADLT#11|ADLT#11:2|b'There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table.'|SERVICE#GENERAL|negative
+ADLT#11|ADLT#11:2|b'There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table.'|FOOD#QUALITY|negative
+ADLT#11|ADLT#11:2|b'There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table.'|SERVICE#GENERAL|negative
+ADLT#11|ADLT#11:3|b'On our last visit, they skipped over our name on the list, leaving us waiting an extra hour for a table.'|SERVICE#GENERAL|negative
+ADLT#11|ADLT#11:4|b'Mistakes happen, but they are usually accompanied by an apology, perhaps even a glass of wine...but not the grunt that we received from the Al Di La staff.'|SERVICE#GENERAL|negative
+WE#1|WE#1:0|b'Expensive'|RESTAURANT#PRICES|negative
+WE#1|WE#1:3|b'The bread was stale, the salad was overpriced and empty.'|FOOD#QUALITY|negative
+WE#1|WE#1:3|b'The bread was stale, the salad was overpriced and empty.'|FOOD#PRICES|negative
+WE#1|WE#1:3|b'The bread was stale, the salad was overpriced and empty.'|FOOD#STYLE_OPTIONS|negative
+WE#1|WE#1:4|"b""The pasta was well cooked, didn't have enough sauce though or flavor."""|FOOD#QUALITY|positive
+WE#1|WE#1:4|"b""The pasta was well cooked, didn't have enough sauce though or flavor."""|FOOD#QUALITY|negative
+WE#1|WE#1:4|"b""The pasta was well cooked, didn't have enough sauce though or flavor."""|FOOD#STYLE_OPTIONS|negative
+FF#6|FF#6:0|b'So rude!!!'|SERVICE#GENERAL|negative
+FF#6|FF#6:3|b'I was one of the people that went for this horrible experience.'|RESTAURANT#GENERAL|negative
+FF#6|FF#6:5|b'The hostess was rude and I got a distinct feeling that they did not want to serve us.'|SERVICE#GENERAL|negative
+FF#6|FF#6:5|b'The hostess was rude and I got a distinct feeling that they did not want to serve us.'|SERVICE#GENERAL|negative
+FF#6|FF#6:6|b'The only thing that my friend left out is that when we sat down at the bar the bartender disappeared.'|SERVICE#GENERAL|negative
+FF#6|FF#6:7|b'I asked for a menu and the same waitress looked at my like I was insane.'|SERVICE#GENERAL|negative
+FF#6|FF#6:8|"b'I was shocked that my friends wanted to stay after the waitress said, ""can I help you"" and ""how many are in your party.""'"|SERVICE#GENERAL|negative
+FF#6|FF#6:10|b'The three of us standing in front of her should have been an indication of how many of us there were.'|SERVICE#GENERAL|negative
+FF#6|FF#6:11|"b""We didn't look like the other patrons in there so unfortunately I think that may have been part of the problem."""|RESTAURANT#MISCELLANEOUS|negative
+FF#6|FF#6:12|b'Shame on this place for the horrible rude staff and non-existent customer service.'|SERVICE#GENERAL|negative
+FF#6|FF#6:12|b'Shame on this place for the horrible rude staff and non-existent customer service.'|SERVICE#GENERAL|negative
+FF#10|FF#10:0|b'bad staff'|SERVICE#GENERAL|negative
+FF#10|FF#10:1|b'I generally like this place.'|RESTAURANT#GENERAL|positive
+FF#10|FF#10:2|b'The food is good.'|FOOD#QUALITY|positive
+FF#10|FF#10:3|b'The design of the space is good.'|AMBIENCE#GENERAL|positive
+FF#10|FF#10:4|b'But the service is HORRID!'|SERVICE#GENERAL|negative
+FF#10|FF#10:5|b'I was there for brunch recently, and we were tag teamed by a waitress and a waiter.'|SERVICE#GENERAL|negative
+FF#10|FF#10:5|b'I was there for brunch recently, and we were tag teamed by a waitress and a waiter.'|SERVICE#GENERAL|negative
+FF#10|FF#10:6|b'The waiter delivered our food while holding what appeared to be a plastic bag of garbage in one hand.'|SERVICE#GENERAL|negative
+FF#10|FF#10:7|"b""I can't believe that it was, but please put the bag down before delivering food!"""|SERVICE#GENERAL|negative
+FF#10|FF#10:8|b'The waitress came to check in on us every few minutes, and began to clear the plates while half of us were still eating (a big pet peeve of mine that happens almost everywhere, so I try to ignore it).'|SERVICE#GENERAL|negative
+FF#10|FF#10:9|"b""I couldn't ignore the fact that she reach over the plate of one of my friends, who was in mid bite, to clear the table."""|SERVICE#GENERAL|negative
+FF#10|FF#10:10|b'She then put the check down without asking if we were done, and came to check on the bill every two minutes, even though we were one of three occupied tables.'|SERVICE#GENERAL|negative
+FF#10|FF#10:11|b'I wish I could like this place more, and I wish someone would retrain the staff.'|RESTAURANT#GENERAL|negative
+FF#10|FF#10:11|b'I wish I could like this place more, and I wish someone would retrain the staff.'|SERVICE#GENERAL|negative
